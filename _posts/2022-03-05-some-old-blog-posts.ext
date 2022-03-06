@@ -1,7 +1,13 @@
 ---
 layout: post
+title:  "Some Old Blog Posts"
+date:   2021-03-05 08:43:59
+author: Libby Koolik
 categories: SPIDER
+tags:	SPIDER, archive
+cover:  "/assets/instacode.png"
 ---
+
 Test!
 
 This is just a dummy post. Lorem ipsum and all the rest.
