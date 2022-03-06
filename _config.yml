@@ -14,7 +14,7 @@ subtitle: "Graduate Student at UC Berkeley Studying Air Pollution Exposures"
 email: koolik@berkeley.edu
 name: Libby Koolik
 description: >
-  Website made possible by Ben Centra and the wonders of open source code. Thanks, Ben!
+  Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -54,7 +54,7 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: SPIDER
+  - cat: Jekyll
     desc: "Posts describing Jekyll setup techniques."
 
   - cat: dummy
