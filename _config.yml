@@ -14,7 +14,7 @@ subtitle: "Graduate Student at UC Berkeley Studying Air Pollution Exposures"
 email: koolik@berkeley.edu
 name: Libby Koolik
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Website made possible by Ben Centra and the wonders of open source code. Thanks, Ben!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: libbykoolik
+    url: https://twitter.com/libbykoolik
     desc: Follow me on Twitter
     share: true
 
@@ -88,19 +88,19 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: lkoolik
+    url: https://github.com/lkoolik
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Libby Koolik
+    url: https://www.linkedin.com/in/libby-koolik
     desc: Connect with me on LinkedIn
     share: true
 
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -120,17 +120,17 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
-    url: ""
-    desc: Follow me on Instagram
-    share: false
+    username: "sully.the.kitty.cat"
+    url: https://instagram.com/sully.the.kitty.cat
+    desc: Follow my cat Sully on Instagram
+    share: true
 
   - name: Pinterest
     icon: pinterest
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +179,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
