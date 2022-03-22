@@ -55,10 +55,10 @@ jekyll-archives:
 # Category descriptions (for archive pages)
 descriptions:
   - cat: SPIDER
-    desc: "Posts about the SPIDER project."
+    desc: ""
 
   - cat: Berkeley
-    desc: "Recent work and updates from my work at UC Berkeley."
+    desc: ""
 
 # Social icons and sharing options
 #
