@@ -5,7 +5,7 @@ date:   2021-03-22 08:43:59
 author: Libby Koolik
 categories: SPIDER
 tags:	SPIDER, archive
-cover:  "/assets/instacode.png"
+cover:  "/assets/building_spider_figure.png"
 ---
 
 While a student at MIT, I had the opportunity to work on developing a new inlet for studying mixed-phase clouds. Along with primary investigator [Dan Cziczo](https://www.eaps.purdue.edu/people/profile/djcziczo.html) and postdoctoral fellow [Michael Rösch](https://iac.ethz.ch/people-iac/person-detail.html?persid=244090), I designed and built the Phase Separation Inlet for Droplets, Ice Residuals, and Interstitial Aerosol Particles (SPIDER). 
