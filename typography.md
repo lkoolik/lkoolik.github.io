@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: CV
+permalink: /CV/
 main_nav: true
 ---
 
