@@ -5,9 +5,23 @@ permalink: /CV/
 main_nav: true
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<p>Below are the highlights from the most recent version of my CV. For more information, please feel free to send me an email.</p>
 
 <hr>
+
+<h3>Education</h3>
+<ul>
+  <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols. Advisor: Daniel J. Cziczo.</li>
+  <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator. Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
+</ul>
+
+<hr>
+
+<h3>Publications</h3>
+<ul>
+  <li>(2022, accepted) Koolik, L., Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. https://doi.org/0.5194/amt-2021-26</li>
+  <li>(03/2018-06/2021) Monthly contributor to the "Recent Scientific Studies on Climate Change" section of the Argent Communications Group <i>Climate Change Law & Policy Reporter</i></li>
+</ul>
 
 <h1 id="headings">Headings</h1>
 
