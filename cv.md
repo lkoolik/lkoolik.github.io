@@ -5,7 +5,7 @@ permalink: /CV/
 main_nav: true
 ---
 
-<p>Below are the highlights from the most recent version of my CV. For more information, please feel free to send me an email.</p>
+<p>Below are the academic highlights from the most recent version of my CV. For more information, please feel free to send me an email.</p>
 
 <hr>
 
