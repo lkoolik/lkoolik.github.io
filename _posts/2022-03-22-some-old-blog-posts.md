@@ -4,7 +4,7 @@ title:  "Some Old Blog Posts"
 date:   2021-03-22 08:43:59
 author: Libby Koolik
 categories: inlet
-tags:	SPIDER inlet archive
+tags:	
 cover:  "/assets/fab_lab.jpeg"
 ---
 
