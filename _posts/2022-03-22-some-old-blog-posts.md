@@ -4,7 +4,7 @@ title:  "Some Old Blog Posts"
 date:   2021-03-22 08:43:59
 author: Libby Koolik
 categories: SPIDER
-tags:	SPIDER, archive
+tags:	SPIDER archive
 cover:  "/assets/fab_lab.jpeg"
 ---
 
