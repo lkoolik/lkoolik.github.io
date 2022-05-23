@@ -20,7 +20,7 @@ main_nav: true
 
 <h3>Publications</h3>
 <ul>
-  <li>(2022, accepted) Koolik, L., Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. https://doi.org/0.5194/amt-2021-26</li>
+  <li>(2022, accepted) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. https://doi.org/0.5194/amt-2021-26</li>
   <li>(03/2018-06/2021) Monthly contributor to the "Recent Scientific Studies on Climate Change" section of the Argent Communications Group <i>Climate Change Law & Policy Reporter</i></li>
 </ul>
 
