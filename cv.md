@@ -25,6 +25,15 @@ main_nav: true
 
 <hr>
 
+<h3>Awards and Fellowships</h3>
+<ul>
+  <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
+  <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
+  <li>(2016) MIT Department of Earth, Atmospheric, and Planetary Science Achievement Award.</li>
+</ul>
+
+<hr>
+
 <h3>Research Experience</h3>
 <h4>Apte Group Laboratory</h4>
 <i> University of California, Berkeley </i> 
