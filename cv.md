@@ -11,6 +11,7 @@ main_nav: true
 
 <h3>Education</h3>
 <ul>
+  <li>(In Progress) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua Apte.</li>
   <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols. Advisor: Daniel J. Cziczo.</li>
   <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator. Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
 </ul>
