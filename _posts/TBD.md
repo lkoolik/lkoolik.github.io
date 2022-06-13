@@ -8,9 +8,7 @@ tags:
 cover:  "/assets/fab_lab.jpeg"
 ---
 
-On April 27th, I received a formal notification that the SPIDER paper was accepted for publication at Atmospheric Measurement Techniques. Today - the paper was published! Check out our official citation here:
-
-[tbd]
+On April 27th, I received a formal notification that the SPIDER paper was accepted for publication at Atmospheric Measurement Techniques. Two weeks ago - the paper was published! Check out the final manuscript here: [Koolik et al., 2022](https://amt.copernicus.org/articles/15/3213/2022/)
 
 The SPIDER validation experiment paper is both my first publication and my first first author publication! I am so proud of the work we have done, and I have learned so much from this experience. I wanted to write a short blog post in plain English summarizing (1) what is in this paper, (2) why this work matters, and (3) my major takeaways as a first time author.
 
@@ -49,7 +47,9 @@ Because there is so much uncertainty surrounding aerosols and clouds, it is crit
 --------
 
 <h3>What's Next?</h3>
-Now that the SPIDER inlet is validated, it's time to get to work! We performed two proof-of-concept field campaigns with the SPIDER inlet: one at the Mount Washington Weather Observatory in [city], NH, and one at the Stork Peak Laboratory in Steamboat Springs, CO.
+Now that the SPIDER inlet is validated, it's time to get to work! We performed two proof-of-concept field campaigns with the SPIDER inlet: one at the Mount Washington Weather Observatory in Gorham, NH, and one at the Stork Peak Laboratory in Steamboat Springs, CO. A third field campaign took place earlier this calendar year [(link)](https://twitter.com/PurdueEAPS/status/1481005400031961091?s=20&t=RaQoxiMfVqYEh3D95sdqdg). The Mount Washington Weather Observatory field campaign took place in early 2017, and prooved that SPIDER was capable of continuous sampling in a remote mountaintop environment. Mount Washington is known for extreme weather [(link)] (https://www.youtube.com/watch?v=LAixaxcoU38), and yet SPIDER performed brilliantly!
+
+Now that the instrument is validated, simultaneous measurements can be taken from each channel of the SPIDER inlet to characterize mixed-phase clouds in-situ.
 
 
 --------
