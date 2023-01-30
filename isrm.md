@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ISRM Tool
+title: Running the ISRM Tool
 permalink: /isrm_tool/
 main_nav: false
 ---
