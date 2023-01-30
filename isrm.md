@@ -32,7 +32,7 @@ The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The 
 
 **Install Python**. In order to run the ISRM Tool, the computer must have Python installed. I recommend following the guidance provided by [Anaconda](https://docs.anaconda.com/anaconda/install/mac-os/) for downloading Python on Mac. It is also recommended that you install Anaconda Navigator for ease setting up a virtual environment.
 
-**Virtual Environment**. The next step is to create a virtual environment for storing the proper versions of libraries required to run this code pipeline. Details on the specific requirements for the ISRM Tool are specified in the Github Repository's [requirements.txt](https://github.com/lkoolik/isrm_health_calculations/blob/main/requirements.txt) file. To set this up, it is recommended that you download this text file and save it on yooru computer. There are two ways you can set up your virtual environment.
+**Virtual Environment**. The next step is to create a virtual environment for storing the proper versions of libraries required to run this code pipeline. Details on the specific requirements for the ISRM Tool are specified in the Github Repository's [requirements.txt](https://github.com/lkoolik/isrm_health_calculations/blob/main/requirements.txt) file. To set this up, it is recommended that you download this text file and save it on your computer. There are two ways you can set up your virtual environment.
 
 1. **Option 1: Anaconda GUI**. Within the Anaconda Navigoator, select the tab "Environments" on the left-hand side. At the bottom, select "Import" to create a new environment from a requirements file. Download the requirements.txt file from the Github repository, and import this file (note: you may need to manually switch your import GUI to search for "Pip requirement files" instead of "Conda environment files"). Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide.
 
@@ -40,6 +40,14 @@ The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The 
 
 You will test that your virtual environment is set up properly in the next section. If you find that it was not set up properly, you can manually update or install the missing libraries/packages using `pip` or the Anaconda Navigator GUI.
 
+## Download Repository ##
+
+Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Click the green "Code" button and select "Download Zip". Save this zip file to the same directory where you have saved your virtual environment. Unzip the files, and for consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
+
+[...]
+
+## Download Data ##
+tmp
 
 
 
