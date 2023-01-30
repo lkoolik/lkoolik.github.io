@@ -65,7 +65,7 @@ Now, you are ready to test the code. We will do this in two steps.
 
 `python isrm_calcs.py -h`
 
-This is successful if you get the following help message returned:
+This is successful if you get the following help message returned (ignore the colors):
 
     usage: isrm_calcs.py [-h] [-i INPUTS]
 
@@ -76,7 +76,42 @@ This is successful if you get the following help message returned:
       -i INPUTS, --inputs INPUTS
                             control file path
 
-2. **tmp**.
+2. **Create a Test File**. 
+
+ 1. Within the "templates" folder of the isrm_health_calculations directory, there should be a text file called "control_file_template.txt". Copy this file to a directory of choice. For the purposes of this exercise, I will make a copy called "control_file_test.txt".
+ 
+ 2. Open the text file with a text editor (e.g., TextEdit, Notepad++). Make the following changes. Note - in a future section, I will discuss how to update this control file.
+ 
+   ╓─────────────────────────────────╖
+   ║  HEALTH RUN CONTROLS            ║
+   ║  These should be set to Y or N  ║
+   ╙─────────────────────────────────╜
+   - RUN_HEALTH: N
+   - RACE_STRATIFIED_INCIDENCE: N
+
+   ╓────────────────────────────────╖
+   ║ RUN CONTROLS                   ║
+   ║ These should be set to Y or N  ║
+   ╙────────────────────────────────╜
+   - CHECK_INPUTS: Y
+   - VERBOSE: Y
+
+   ╓──────────────────╖
+   ║  OUTPUT OPTIONS  ║
+   ╙──────────────────╜
+   - REGION_OF_INTEREST: 
+   - REGION_CATEGORY: 
+   - OUTPUT_RESOLUTION: 
+   - OUTPUT_EXPOSURE: N
+
+ 3.  Back in the terminal in the isrm_health_calcs directory with the isrm_calcs_env virtual environment activated, type the following prompt:
+
+   `python isrm_calcs.py -i 'path/to/control/file/control_file_test.txt'`
+   
+   If this worked properly, you should get a box pop up with the name of the tool and the version. Then, you should get a number of bulleted messages in simple English about problems running the code. An example is below. These messages are okay and mean that Python is set up properly! 
+   
+   `* Issue finding ISRM_NH3.npy in the provided ISRM directory`
+   `<< ERROR: Control file was successfully imported but inputs are not correct >>`
 
 
 
