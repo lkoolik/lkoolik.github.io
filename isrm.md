@@ -4,6 +4,8 @@ title: ISRM Tool
 permalink: /isrm_tool/
 main_nav: false
 ---
+<p> <em>Last Updated: January 30, 2023 </em> </p>
+
 
 <p>This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS and on a remote Linux-based cloud console, as well as the [background](#Background) behind the tool.</p>
 
