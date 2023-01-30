@@ -40,11 +40,13 @@ The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The 
 
 You will test that your virtual environment is set up properly in the next section. If you find that it was not set up properly, you can manually update or install the missing libraries/packages using `pip` or the Anaconda Navigator GUI.
 
-## Download Repository ##
+## Clone Repository ##
 
-Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Click the green "Code" button and select "Download Zip". Save this zip file to the same directory where you have saved your virtual environment. Unzip the files, and for consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
+It is highly recommended that you clone the repository to keep your code up to date. If you create a static copy, you may miss future changes to the code. In order to clone, you will need to create a free Github account ([instructions](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)) and set up your computer to connect with your account ([instructions](https://docs.github.com/en/get-started/getting-started-with-git)).
 
-[...]
+Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone the repository. For consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
+ 
+ <img src="/assets/isrm_tutorial/directory_setup_before_data.png" alt="Screenshot of the directory once the repository is cloned" width="200"/>
 
 ## Download Data ##
 tmp
