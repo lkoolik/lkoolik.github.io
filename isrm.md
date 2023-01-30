@@ -26,7 +26,7 @@ The ISRM Health Calculation model works by a series of two modules. First, the m
 
 # Running on Mac #
 
-The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The instructions below may need to be adapted for different processing capabilities. 
+The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The instructions below may need to be adapted for different processing capabilities. These instructions assume a base level of comfort navigating your file directories in the terminal. For more information on commands you need for following these instructions, see [this article](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) on basic Mac OS commands.
 
 ## Setting Up Python ##
 
@@ -46,17 +46,22 @@ It is highly recommended that you clone the repository to keep your code up to d
 
 Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone the repository. For consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
  
- <img src="/assets/isrm_tutorial/directory_setup_before_data.png" alt="Screenshot of the directory once the repository is cloned" width="100"/>
+![Screenshot of the directory once the repository is cloned](/assets/isrm_tutorial/directory_setup_before_data.png)
+
 
 ## Download Data ##
 
-Within the `isrm_health_calculations` folder, create a new folder called "data". Download the data stored in [this Google drive](https://drive.google.com/drive/folders/14j-yB43YgZgPSPvhjxjdEbhLe6tR0SEc?usp=sharing) into that folder. Note: you should preserve the structure sub-directory "CA_ISRM" if you intend to use the California ISRM.
+Within the `isrm_health_calculations` folder, create a new folder called "data". Download the data stored in [this Google drive](https://drive.google.com/drive/folders/14j-yB43YgZgPSPvhjxjdEbhLe6tR0SEc?usp=sharing) into that folder. Note: you should preserve the structure sub-directory "CA_ISRM" if you intend to use the California ISRM. If you have a different ISRM file, mimick this structure with your ISRM file.
 
 ## Test Code ##
 
 Once you have everything ready to go above, your directory should mirror the screenshot below.
 
-<img src="/assets/isrm_tutorial/directory_when_ready.png" alt="Screenshot of the directory when ready to run" width="100"/>
+![Screenshot of the directory when ready to run](/assets/isrm_tutorial/directory_when_ready.png)
+
+Now, you are ready to test the code. We will do this in two steps.
+
+1. **Confirm Python Works**. In the terminal, navigate to the directory where this code is saved. 
 
 
 
