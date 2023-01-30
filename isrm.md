@@ -56,7 +56,7 @@ Within the `isrm_health_calculations` folder, create a new folder called "data".
 
 Once you have everything ready to go above, your directory should mirror the screenshot below.
 
-
+<img src="/assets/isrm_tutorial/directory_when_ready.png" alt="Screenshot of the directory when ready to run" width="100"/>
 
 
 
