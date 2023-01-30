@@ -78,9 +78,9 @@ This is successful if you get the following help message returned (ignore the co
 
 2. **Create a Test File**. 
 
- 1. Within the "templates" folder of the isrm_health_calculations directory, there should be a text file called "control_file_template.txt". Copy this file to a directory of choice. For the purposes of this exercise, I will make a copy called "control_file_test.txt".
+ Within the "templates" folder of the isrm_health_calculations directory, there should be a text file called "control_file_template.txt". Copy this file to a directory of choice. For the purposes of this exercise, I will make a copy called "control_file_test.txt".
  
- 2. Open the text file with a text editor (e.g., TextEdit, Notepad++). Make the following changes. Note - in a future section, I will discuss how to update this control file.
+ Open the text file with a text editor (e.g., TextEdit, Notepad++). Make the following changes. Note - in a future section, I will discuss how to update this control file.
  
         ╓─────────────────────────────────╖
         ║  HEALTH RUN CONTROLS            ║
@@ -104,7 +104,7 @@ This is successful if you get the following help message returned (ignore the co
         - OUTPUT_RESOLUTION: 
         - OUTPUT_EXPOSURE: N
     
- 3.  Back in the terminal in the isrm_health_calcs directory with the isrm_calcs_env virtual environment activated, type the following prompt:
+ Back in the terminal in the isrm_health_calcs directory with the isrm_calcs_env virtual environment activated, type the following prompt:
 
    `python isrm_calcs.py -i 'path/to/control/file/control_file_test.txt'`
    
