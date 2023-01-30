@@ -51,7 +51,7 @@ Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_
 
 ## Download Data ##
 
-Within the `isrm_health_calculations` folder, create a new folder called "data". Download the data stored in [this Google drive](https://drive.google.com/drive/folders/14j-yB43YgZgPSPvhjxjdEbhLe6tR0SEc?usp=sharing) into that folder. Note: you should preserve the structure sub-directory "CA_ISRM" if you intend to use the California ISRM. If you have a different ISRM file, mimick this structure with your ISRM file.
+Within the `isrm_health_calculations` folder, create a new folder called "data". Download the data stored in [this Google drive](https://drive.google.com/drive/folders/14j-yB43YgZgPSPvhjxjdEbhLe6tR0SEc?usp=sharing) into that folder. Note: you should preserve the structure sub-directory "CA_ISRM" if you intend to use the California ISRM. If you have a different ISRM file, mimic this structure with your ISRM file.
 
 ## Test Code ##
 
@@ -61,7 +61,22 @@ Once you have everything ready to go above, your directory should mirror the scr
 
 Now, you are ready to test the code. We will do this in two steps.
 
-1. **Confirm Python Works**. In the terminal, navigate to the directory where this code is saved. 
+1. **Confirm Python Works**. In the terminal, navigate to the directory where this code is saved. Type the following command, which should return the built-in help statement for the ISRM Tool:
+
+`python isrm_calcs.py -h`
+
+This is successful if you get the following help message returned:
+
+    usage: isrm_calcs.py [-h] [-i INPUTS]
+
+    Runs the ISRM-based tool for estimating PM2.5 concentrations and associated health impacts.
+
+    optional arguments:
+      -h, --help            show this help message and exit
+      -i INPUTS, --inputs INPUTS
+                            control file path
+
+2. **tmp**.
 
 
 
