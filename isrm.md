@@ -82,28 +82,28 @@ This is successful if you get the following help message returned (ignore the co
  
  2. Open the text file with a text editor (e.g., TextEdit, Notepad++). Make the following changes. Note - in a future section, I will discuss how to update this control file.
  
-   ╓─────────────────────────────────╖
-   ║  HEALTH RUN CONTROLS            ║
-   ║  These should be set to Y or N  ║
-   ╙─────────────────────────────────╜
-   - RUN_HEALTH: N
-   - RACE_STRATIFIED_INCIDENCE: N
-
-   ╓────────────────────────────────╖
-   ║ RUN CONTROLS                   ║
-   ║ These should be set to Y or N  ║
-   ╙────────────────────────────────╜
-   - CHECK_INPUTS: Y
-   - VERBOSE: Y
-
-   ╓──────────────────╖
-   ║  OUTPUT OPTIONS  ║
-   ╙──────────────────╜
-   - REGION_OF_INTEREST: 
-   - REGION_CATEGORY: 
-   - OUTPUT_RESOLUTION: 
-   - OUTPUT_EXPOSURE: N
-
+        ╓─────────────────────────────────╖
+        ║  HEALTH RUN CONTROLS            ║
+        ║  These should be set to Y or N  ║
+        ╙─────────────────────────────────╜
+        - RUN_HEALTH: N
+        - RACE_STRATIFIED_INCIDENCE: N
+        
+        ╓────────────────────────────────╖
+        ║ RUN CONTROLS                   ║
+        ║ These should be set to Y or N  ║
+        ╙────────────────────────────────╜
+        - CHECK_INPUTS: Y
+        - VERBOSE: Y
+        
+        ╓──────────────────╖
+        ║  OUTPUT OPTIONS  ║
+        ╙──────────────────╜
+        - REGION_OF_INTEREST: 
+        - REGION_CATEGORY: 
+        - OUTPUT_RESOLUTION: 
+        - OUTPUT_EXPOSURE: N
+    
  3.  Back in the terminal in the isrm_health_calcs directory with the isrm_calcs_env virtual environment activated, type the following prompt:
 
    `python isrm_calcs.py -i 'path/to/control/file/control_file_test.txt'`
