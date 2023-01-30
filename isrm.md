@@ -63,9 +63,9 @@ Now, you are ready to test the code. We will do this in two steps.
 
 1. **Confirm Python Works**. In the terminal, navigate to the directory where this code is saved. Type the following command, which should return the built-in help statement for the ISRM Tool:
 
-`python isrm_calcs.py -h`
+ `python isrm_calcs.py -h`
 
-This is successful if you get the following help message returned (ignore the colors):
+ This is successful if you get the following help message returned (ignore the colors):
 
     usage: isrm_calcs.py [-h] [-i INPUTS]
 
