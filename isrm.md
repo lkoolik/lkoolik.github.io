@@ -7,7 +7,7 @@ main_nav: false
 <p> <em>Last Updated: January 30, 2023 </em> </p>
 
 
-<p>This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS and on a remote Linux-based cloud console, as well as the [background](#Background) behind the tool.</p>
+<p>This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS and on a remote Linux-based cloud console, as well as the background behind the tool.</p>
 
 ---
 
@@ -20,51 +20,26 @@ The Intervention Model for Air Pollution (InMAP) is a powerful first step toward
 The ultimate goal of this repository is to create a pipeline for estimating disparities in health impacts associated with incremental changes in emissions. Annual average PM<sub>2.5</sub> concentrations are estimated using the [InMAP Source Receptor Matrix](https://www.pnas.org/doi/full/10.1073/pnas.1816102116) for California.
 
 ## Methodology ##
-The ISRM Health Calculation model works by a series of two modules. First, the model estimates annual average change in PM<sub>2.5</sub> concentrations as part of the **Concentration Module**. Second, the excess mortality resulting from the concentration change is calculated in the **Health Module**.
+The ISRM Health Calculation model works by a series of two modules. First, the model estimates annual average change in PM<sub>2.5</sub> concentrations as part of the **Concentration Module**. Second, the excess mortality resulting from the concentration change is calculated in the **Health Module**. More details are included in the Github Repository [here](https://github.com/lkoolik/isrm_health_calculations#readme).
 
-### Concentration Module Methodology ###
-The InMAP Source Receptor Matrix (ISRM) links emissions sources to changes in receptor concentrations. There is a matrix layer for each of the five precursor species: primary PM<sub>2.5</sub>, ammonia (NH<sub>3</sub>), oxides of nitrogen (NOx), oxides of sulfur (SOx), and volatile organic compounds (VOC). By default, the tool uses the California ISRM. For each of these species in the California ISRM, the ISRM matrix dimensions are: 3 elevations by 21,705 sources by 21,705 receptors. The three elevations of release height within the ISRM are:
-* Less than 57 meters
-* Between 57 and 140 meters
-* Greater than 760 meters.
+---
 
-The tool is capable of reading in a different ISRM, if specified by the user. 
+# Running on Mac #
 
-The units of each cell within the ISRM are micrograms per meter cubed per microgram per second, or concentration per emissions. 
+The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The instructions below may need to be adapted for different processing capabilities. 
 
-The concentration module has the following steps. Details about the code handling each step are described in the Code Details([*](https://github.com/lkoolik/isrm_health_calculations/blob/main/README.md#code-details)) on Github.
+## Setting Up Python ##
 
-1. **Preprocessing**: the tool will load the emissions shapefile and perform a series of formatting checks and adjustments. Any updates will be reported through the command line. Additionally, the ISRM layers will be imported as an object. The tool will also identify how many of the ISRM layers are required for concentration calculations.
+**Install Python**. In order to run the ISRM Tool, the computer must have Python installed. I recommend following the guidance provided by [Anaconda](https://docs.anaconda.com/anaconda/install/mac-os/) for downloading Python on Mac. It is also recommended that you install Anaconda Navigator for ease setting up a virtual environment.
 
-For each layer triggered in the preprocessing step: 
+**Virtual Environment**. The next step is to create a virtual environment for storing the proper versions of libraries required to run this code pipeline. Details on the specific requirements for the ISRM Tool are specified in the Github Repository's [requirements.txt](https://github.com/lkoolik/isrm_health_calculations/blob/main/requirements.txt) file. To set this up, it is recommended that you download this text file and save it on yooru computer. There are two ways you can set up your virtual environment.
 
-2. **Emissions Re-Allocation**: the tool will re-grid emissions to the ISRM grid.
-   1. The emissions shape and the ISRM shape are intersected.
-   2. Emissions for the intersection object are allocated from the original emissions shape by the percent of the original emissions area that is contained within the intersection.
-   3. Emissions are summed by ISRM grid cell.
-   4. Note: for point source emissions, a small buffer is added to each point to allocate to ISRM grid cells.
-3. **Matrix Multiplication**: Once the emissions are re-gridded to the ISRM grid, they are multiplied by the ISRM grid level for the corresponding layer. 
+1. **Option 1: Anaconda GUI**. Within the Anaconda Navigoator, select the tab "Environments" on the left-hand side. At the bottom, select "Import" to create a new environment from a requirements file. Download the requirements.txt file from the Github repository, and import this file (note: you may need to manually switch your import GUI to search for "Pip requirement files" instead of "Conda environment files"). Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide.
 
-Once all layers are done:
+2. **Option 2: Terminal**. Navigate to your directory of choice using `cd [directory]` in your Terminal. Follow the instructions from the official Python documentation [here](https://docs.python.org/3/tutorial/venv.html) to create your new virtual environment. Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide. Next, activate that environment by running `source isrm_calcs_env/bin/activate`. Once the environment is created and activated, import the requirements document by running `python -m pip install -r requirements.txt`. 
 
-4. **Sum all Concentrations**: concentrations of PM<sub>2.5</sub> are summed by ISRM grid cell.
+You will test that your virtual environment is set up properly in the next section. If you find that it was not set up properly, you can manually update or install the missing libraries/packages using `pip` or the Anaconda Navigator GUI.
 
-### Health Module Methodology ###
-The ISRM calculations health module follows US EPA BenMAP CE methodology and CARB guidance. 
 
-Currently, the tool is only built out to use the Krewski et al. (2009), endpoint parameters and functions.([*](https://www.healtheffects.org/publication/extended-follow-and-spatial-analysis-american-cancer-society-study-linking-particulate)) The Krewski function is as follows:
 
-$$ \Delta M = 1 - ( \frac{1}{\exp(\beta_{d} \times C_{i})} ) \times I_{i,d,g} \times P_{i,g} $$
 
-where $\beta$ is the endpoint parameter from Krewski et al. (2009), $d$ is the disease endpoint, $C$ is the concentration of PM<sub>2.5</sub>, $i$ is the grid cell, $I$ is the baseline incidence, $g$ is the group, and $P$ is the population estimate. The tool takes the following steps to estimate these concentrations.
-
-1. **Preprocessing**: the tool will merge the population and incidence data based on geographic intersections using the `health_data.py` object type. 
-
-2. **Estimation by Endpoint**: the tool will then calculate excess mortality by endpoint:
-   1. The population-incidence data are spatially merged with the exposure concentrations estimated in the Concentration Module.
-   2. For each row of the intersection, the excess mortality is estimated based on the function of choice (currently, only Krewski).
-   3. Excess mortality is summed across age ranges by ISRM grid cell and racial/ethnic group.
-
-Once all endpoints are done:
-
-3. **Export and Visualize**: excess mortality is exported as a shapefile and as a plot.
