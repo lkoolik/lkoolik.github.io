@@ -46,10 +46,17 @@ It is highly recommended that you clone the repository to keep your code up to d
 
 Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone the repository. For consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
  
- <img src="/assets/isrm_tutorial/directory_setup_before_data.png" alt="Screenshot of the directory once the repository is cloned" width="200"/>
+ <img src="/assets/isrm_tutorial/directory_setup_before_data.png" alt="Screenshot of the directory once the repository is cloned" width="100"/>
 
 ## Download Data ##
-tmp
+
+Within the `isrm_health_calculations` folder, create a new folder called "data". Download the data stored in [this Google drive](https://drive.google.com/drive/folders/14j-yB43YgZgPSPvhjxjdEbhLe6tR0SEc?usp=sharing) into that folder. Note: you should preserve the structure sub-directory "CA_ISRM" if you intend to use the California ISRM.
+
+## Test Code ##
+
+Once you have everything ready to go above, your directory should mirror the screenshot below.
+
+
 
 
 
