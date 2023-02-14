@@ -205,3 +205,9 @@ The control file is the central input file for directing your tool run.
  1. In the terminal, navigate to the "isrm_health_calculations" directory using `cd [path/to/isrm_health_calculations]`.
  2. Before running, make sure that your clone is up to date by running the following command in your terminal: `git pull origin`.
  3. Activate the Python virtual environment using:`source isrm_calcs_env/bin/activate`
+ 4. Call the tool by using the following command: `python isrm_calcs.py -i '[path/to/control/file.txt]'`. Note that certain computers may be configured to have the Python path variable as `python3` instead of `python`. You will know it is working if it starts producing log statements.
+
+
+## Accessing Output Files ##
+
+Last section :)
