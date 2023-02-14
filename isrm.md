@@ -199,6 +199,7 @@ The control file is the central input file for directing your tool run.
   </tr>
  </table>
  
+ 
  ## Running the Tool ##
  
  1. In the terminal, navigate to the "isrm_health_calculations" directory using `cd [path/to/isrm_health_calculations]`.
