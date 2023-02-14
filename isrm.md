@@ -149,7 +149,7 @@ Save this file in a directory of your choice, but be sure to write this director
 The control file is the central input file for directing your tool run. 
 
 1. **Make a copy of the control file.** Within the directory where the tool is saved, find the "templates" folder, and copy the "control_file_template.txt" to a directory of your choice. Note this directory.
-2. **Edit the control file.** Open the copy of the control file in a text editor (e.g., TextEdit). A description of each field is below.
+2. **Edit the control file.** Open the copy of the control file in a text editor (e.g., TextEdit). A description of each field is below. When finished, save the control file and write the path down in your notes.
 
  <table cellspacing="0" cellpadding="0">
   <tr>
@@ -197,3 +197,10 @@ The control file is the central input file for directing your tool run.
  <tr>
     <td>Output Exposure</td><td>No</td><td>If enabled, will output population with concentration data.</td>
   </tr>
+ </table>
+ 
+ ## Running the Tool ##
+ 
+ 1. In the terminal, navigate to the "isrm_health_calculations" directory using `cd [path/to/isrm_health_calculations]`.
+ 2. Before running, make sure that your clone is up to date by running the following command in your terminal: `git pull origin`.
+ 3. Activate the Python virtual environment using:`source isrm_calcs_env/bin/activate`
