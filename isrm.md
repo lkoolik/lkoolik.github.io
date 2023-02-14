@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Running the ISRM Tool
+title: Running the ISRM Tool on Mac
 permalink: /isrm_tool/
 main_nav: false
 ---
-<p> <em>Last Updated: January 30, 2023 </em> </p>
+<p> <em>Last Updated: February 14, 2023 </em> </p>
 
 
-<p>This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS and on a remote Linux-based cloud console, as well as the background behind the tool.</p>
+<p>This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS. For instructions on how to run the tool in the Google Cloud, please see the instructions [here](https://docs.google.com/document/d/1aurYIaGMi6BCvQaK6cEyrb5amSAX8TXTYiB2ko2N8FU/). The [Github repository](https://github.com/lkoolik/isrm_health_calculations/) has more information about the code details.</p>
 
 ---
 
@@ -42,9 +42,17 @@ You will test that your virtual environment is set up properly in the next secti
 
 ## Clone Repository ##
 
-It is highly recommended that you clone the repository to keep your code up to date. If you create a static copy, you may miss future changes to the code. In order to clone, you will need to create a free Github account ([instructions](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)) and set up your computer to connect with your account ([instructions](https://docs.github.com/en/get-started/getting-started-with-git)).
+It is highly recommended that you clone the repository to keep your code up to date. If you create a static copy, you may miss future changes to the code. You may consider creating a free Github account ([instructions](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)) and set up your computer to connect with your account ([instructions](https://docs.github.com/en/get-started/getting-started-with-git)). However, it is not required to have your own Github account.
 
-Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone the repository. For consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
+Navigate to the Github repository [here](https://github.com/lkoolik/isrm_health_calculations). To clone the repository:
+
+1. Navigate to the directory where you want the code to be saved from within your Mac Terminal: `cd [path/for/code]`
+
+2. On the Github interface, click the green "Code" button and copy the https url.
+
+3. In your Terminal, type: `git clone [url]`
+
+For consistency with this tutorial, name the parent directory "isrm_health_calculations". Your directory should match the screenshot below.
  
 ![Screenshot of the directory once the repository is cloned](/assets/isrm_tutorial/directory_setup_before_data.png)
 
