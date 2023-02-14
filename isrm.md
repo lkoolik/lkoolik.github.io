@@ -151,4 +151,22 @@ The control file is the central input file for directing your tool run.
 1. **Make a copy of the control file.** Within the directory where the tool is saved, find the "templates" folder, and copy the "control_file_template.txt" to a directory of your choice. Note this directory.
 2. **Edit the control file.** Open the copy of the control file in a text editor (e.g., TextEdit). A description of each field is below.
 
- 
+ <table cellspacing="0" cellpadding="0">
+  <tr>
+    <th>Input</th><th>Required?</th><th>Description</th>
+  </tr>
+  <tr>
+    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+  </tr>
+  <tr class="even">
+    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+  </tr>
+  <tr>
+    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+  </tr>
+  <tr>
+    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+  </tr>
+  <tr>
+    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+  </tr>
