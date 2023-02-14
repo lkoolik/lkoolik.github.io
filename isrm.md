@@ -156,17 +156,44 @@ The control file is the central input file for directing your tool run.
     <th>Input</th><th>Required?</th><th>Description</th>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td>Batch Name</td><td>No</td><td>Provides a name for the batch of runs.</td>
   </tr>
   <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td>Run Name</td><td>No</td><td>Provides a run-specific name.</td>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td>Emissions Filename</td><td>Yes</td><td>Provides the path to the emissions file. For shapefiles, use the .shp file.</td>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td>Emissions Units</td><td>Yes</td><td>Provide the units for emissions (e.g., ton/yr).</td>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td>ISRM Folder</td><td>Yes</td><td>Provide the path to the folder containing the ISRM files.</td>
+  </tr>
+ <tr>
+    <td>Population Filename</td><td>Yes</td><td>Provides the path to the population file. For shapefiles, use the .shp file.</td>
+  </tr>
+ <tr>
+    <td>Run Health</td><td>No</td><td>Indicate whether you want health results. If blank, will run only concentrations.</td>
+  </tr>
+ <tr>
+    <td>Race Stratified Incidence</td><td>No</td><td>Future option, currently does not do anything.</td>
+  </tr>
+ <tr>
+    <td>Check Inputs</td><td>No</td><td>If enabled, will check all of your inputs and then exit.</td>
+  </tr>
+ <tr>
+    <td>Verbose</td><td>No</td><td>If enabled, will output more logging statements.</td>
+  </tr>
+ <tr>
+    <td>Region of Interest</td><td>No</td><td>If provided an input, will output results only for this region.</td>
+  </tr>
+ <tr>
+    <td>Region Category</td><td>No</td><td>If provided an region of input, provide the type of region (e.g., AD = Air District, AB = Air Basin, C = County).</td>
+  </tr>
+ <tr>
+    <td>Output Resolution</td><td>No</td><td>If provided, will aggregate results from ISRM grid cell to provided resolution.</td>
+  </tr>
+ <tr>
+    <td>Output Exposure</td><td>No</td><td>If enabled, will output population with concentration data.</td>
   </tr>
