@@ -24,7 +24,7 @@ The ISRM Health Calculation model works by a series of two modules. First, the m
 
 ---
 
-# Running on Mac #
+# Setting Up on Mac #
 
 The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The instructions below may need to be adapted for different processing capabilities. These instructions assume a base level of comfort navigating your file directories in the terminal. For more information on commands you need for following these instructions, see [this article](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) on basic Mac OS commands.
 
@@ -121,5 +121,34 @@ Now, you are ready to test the code. We will do this in two steps.
    `* Issue finding ISRM_NH3.npy in the provided ISRM directory`
    `<< ERROR: Control file was successfully imported but inputs are not correct >>`
 
+---
 
+# Running on Mac #
 
+The next section will describe how to run ISRM calculations on your Mac provided you have an emissions file. If you want to follow along step-by-step with this guide, feel free to download my [sample data](https://drive.google.com/drive/folders/1V0H_JLPpnWvqUfcADPi0JI_kd71Shbxm). The sample data is the California EMFAC model calendar year 2000 dataset.
+
+## Setting Up Emissions File ##
+
+In order to run the ISRM Tool, you will need to provide it with an emissions input file as either a shapefile or feather file. Shapefiles can be created using ArcGIS, QGIS, or coding languages like Python or R. Feather files are best created in Python.
+
+The emissions file needs to have the following columns in order to run properly. Column names are bolded with descriptions following.
+* **I_CELL**: ID column, just needs to be unique
+* **J_CELL**: ID column, just needs to be unique
+* Five emissions columns. These can have any units of mass per time, so long as they are all the same.
+   * **PM25**
+   * **NH3**
+   * **VOC**
+   * **NOX**
+   * **SOX**
+* **HEIGHT_M**: source release height in meters. This can be slightly imprecise, since things are binned into the three layers of the ISRM (0-57 m, 57-140 m, > 760 m)
+
+Save this file in a directory of your choice, but be sure to write this directory down in your notes.
+
+## Setting Up Control File ##
+
+The control file is the central input file for directing your tool run. 
+
+1. **Make a copy of the control file.** Within the directory where the tool is saved, find the "templates" folder, and copy the "control_file_template.txt" to a directory of your choice. Note this directory.
+2. **Edit the control file.** Open the copy of the control file in a text editor (e.g., TextEdit). A description of each field is below.
+
+ 
