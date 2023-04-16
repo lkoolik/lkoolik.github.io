@@ -26,8 +26,16 @@ main_nav: true
 
 <hr>
 
+<h3>Presentations</h3>
+<ul>
+  <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf</li>
+</ul>
+
+<hr>
+
 <h3>Awards and Fellowships</h3>
 <ul>
+  <li>(2023) Health Effects Institute, Jane Warren Award.</li>
   <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
   <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
   <li>(2016) MIT Department of Earth, Atmospheric, and Planetary Science Achievement Award.</li>
