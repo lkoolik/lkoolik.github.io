@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Libby Koolik
+title: Libby H. Koolik
 subtitle: "Graduate Student at UC Berkeley Studying Air Pollution Exposures"
 email: koolik@berkeley.edu
-name: Libby Koolik
+name: Libby H. Koolik
 description: >
-  The personal and professional website of Libby Koolik, a graduate student at UC Berkeley studying air pollution. Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
+  The personal and professional website of Libby H. Koolik, a graduate student at UC Berkeley studying air pollution. Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -85,7 +85,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Libby Koolik
+    username: Libby H. Koolik
     url: https://www.linkedin.com/in/libby-koolik
     desc: Connect with me on LinkedIn
     share: true
