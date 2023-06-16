@@ -4,7 +4,7 @@ title: Running the ISRM Tool on Mac
 permalink: /isrm_tool/
 main_nav: false
 ---
-<p> <em>Last Updated: March 14, 2023 </em> </p>
+<p> <em>Last Updated: June 16, 2023 </em> </p>
 
 
 This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS. For instructions on how to run the tool in the Google Cloud, please see the instructions [here](https://docs.google.com/document/d/1aurYIaGMi6BCvQaK6cEyrb5amSAX8TXTYiB2ko2N8FU). The [Github repository](https://github.com/lkoolik/isrm_health_calculations/) has more information about the code details. Additional details about input file formatting and the control file can be found in the [Google Cloud Instruction Document](https://docs.google.com/document/d/1aurYIaGMi6BCvQaK6cEyrb5amSAX8TXTYiB2ko2N8FU).
@@ -129,7 +129,7 @@ The next section will describe how to run ISRM calculations on your Mac provided
 
 ## Setting Up Emissions File ##
 
-In order to run the ISRM Tool, you will need to provide it with an emissions input file as either a shapefile or feather file. Shapefiles can be created using ArcGIS, QGIS, or coding languages like Python or R. Feather files are best created in Python.
+In order to run the ISRM Tool, you will need to provide it with an emissions input file as either a shapefile, a feather file, or a CSV file (point sources only). Shapefiles can be created using ArcGIS, QGIS, or coding languages like Python or R. Feather files are best created in Python. If you have only point sources, you can import a CSV file using latitude and longitude coordinates from Google Maps (WGS84).
 
 The emissions file needs to have the following columns in order to run properly. Column names are bolded with descriptions following.
 * **I_CELL**: ID column, just needs to be unique
