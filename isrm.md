@@ -4,7 +4,7 @@ title: Running the ISRM Tool on Mac
 permalink: /isrm_tool/
 main_nav: false
 ---
-<p> <em>Last Updated: June 16, 2023 </em> </p>
+<p> <em>Last Updated: June 20, 2023 </em> </p>
 
 
 This web page provides a detailed description of how to run the ISRM Tool, built as a collaboration with UC Berkeley, University of Washington, and California's Office of Environmental Health Hazard Assessment. This document provides a full write-up of how to run this code pipeline on Mac OS. For instructions on how to run the tool in the Google Cloud, please see the instructions [here](https://docs.google.com/document/d/1aurYIaGMi6BCvQaK6cEyrb5amSAX8TXTYiB2ko2N8FU). The [Github repository](https://github.com/lkoolik/isrm_health_calculations/) has more information about the code details. Additional details about input file formatting and the control file can be found in the [Google Cloud Instruction Document](https://docs.google.com/document/d/1aurYIaGMi6BCvQaK6cEyrb5amSAX8TXTYiB2ko2N8FU).
@@ -34,7 +34,7 @@ The tool was developed on MacOS Monterey on the Apple M1 with 16 GB Memory. The 
 
 **Virtual Environment**. The next step is to create a virtual environment for storing the proper versions of libraries required to run this code pipeline. Details on the specific requirements for the ISRM Tool are specified in the Github Repository's [requirements.txt](https://github.com/lkoolik/isrm_health_calculations/blob/main/requirements.txt) file. To set this up, it is recommended that you download this text file and save it on your computer. There are two ways you can set up your virtual environment.
 
-1. **Option 1: Anaconda GUI**. Within the Anaconda Navigoator, select the tab "Environments" on the left-hand side. At the bottom, select "Import" to create a new environment from a requirements file. Download the requirements.txt file from the Github repository, and import this file (note: you may need to manually switch your import GUI to search for "Pip requirement files" instead of "Conda environment files"). Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide.
+1. **Option 1: Anaconda GUI**. Within the Anaconda Navigoator, select the tab "Environments" on the left-hand side. At the bottom, select "Import" to create a new environment from a requirements file. Download the requirements.txt file from the Github repository, and import this file (note: you may need to manually switch your import GUI to search for "Pip requirement files" instead of "Conda environment files"). Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide. Note: if you are running into Python errors when running the program and you performed your setup this way, you may need to re-try with Option 2 below.
 
 2. **Option 2: Terminal**. Navigate to your directory of choice using `cd [directory]` in your Terminal. Follow the instructions from the official Python documentation [here](https://docs.python.org/3/tutorial/venv.html) to create your new virtual environment. Set your virtual environment name to "isrm_calcs_env" to be consistent with the rest of this guide. Next, activate that environment by running `source isrm_calcs_env/bin/activate`. Once the environment is created and activated, import the requirements document by running `python -m pip install -r requirements.txt`. 
 
