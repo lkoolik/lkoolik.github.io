@@ -11,7 +11,7 @@ main_nav: true
 
 <h3>Education</h3>
 <ul>
-  <li>(In Progress) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua S. Apte.</li>
+  <li>(<em>In Progress</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua S. Apte.</li>
   <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols (<a href="http://hdl.handle.net/1721.1/115782">link</a>). Advisor: Daniel J. Cziczo.</li>
   <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator (<a href="http://hdl.handle.net/1721.1/114346">link</a>). Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
 </ul>
@@ -28,7 +28,7 @@ main_nav: true
 
 <h3>Presentations</h3>
 <ul>
-  <li>(<em>Upcoming</em>) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>)</li>
+  <li>(<em>Upcoming</em>) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>)</li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. (<a href="https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf">abstract</a>, <a href="https://www.youtube.com/live/o81og34HRfw?si=4AH7Bvb-w2o41OHT">video</a>)</li>
 </ul>
 
@@ -80,4 +80,24 @@ main_nav: true
 <ul>
   <li>Compared levels of ozone and particulate matter in different policy scenarios with overall costs of implementation, contributing to a report to the EPA that advises them on which policy to pursue.</li>
   <li>Performed BenMAP simulations, contributing to results published in a paper entitled “U.S. Air Quality and Health Benefits from Avoided Climate Change under Greenhouse Gas Mitigation” (Garcia-Menendez 2015).</li>
+</ul>
+
+<hr>
+
+<h3>Volunteering & Mentorship</h3>
+<h4>Undergraduate Research Supervision</h4>
+<ul>
+  <li>(01/2023-present) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em></li>
+  <li>(09/2022-05/2023) Thomas Le: <em>Developing Pipelines for Estimating Stationary Source Exposures</em></li>
+</ul>
+
+<h4>Other Mentorship</h4>
+<ul>
+  <li>(09/2022-present) MIT Terrascope Alumni Mentor (<a href="https://terrascope.mit.edu/community/mentors/">link</a>): provide support to freshman learning community focused on solving environmental problems</li>
+  <li>(09/2022-present) GWE x SWE Mentoring: mentor undergraduate woman in engineering, providing career and academic advice</li>
+</ul>
+
+<h4>Volunteering</h4>
+<ul>
+  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023 coordinator</li>
 </ul>
