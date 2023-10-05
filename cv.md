@@ -35,6 +35,7 @@ main_nav: true
 
 <h3>Awards and Fellowships</h3>
 <ul>
+  <li>(2023) Hearts to Humanity Eternal Graduate Fellowship 2023.</li>
   <li>(2023) Health Effects Institute, Jane Warren Award.</li>
   <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
   <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
