@@ -94,7 +94,7 @@ main_nav: true
 <h4>Other Mentorship</h4>
 <ul>
   <li>(09/2022-present) MIT Terrascope Alumni Mentor (<a href="https://terrascope.mit.edu/community/mentors/">link</a>): provide support to freshman learning community focused on solving environmental problems</li>
-  <li>(09/2022-present) GWE x SWE Mentoring: mentor undergraduate woman in engineering, providing career and academic advice</li>
+  <li>(09/2022-present) GWE x SWE Mentoring: mentor undergraduate women in engineering, providing career and academic advice</li>
 </ul>
 
 <h4>Volunteering</h4>
