@@ -90,6 +90,13 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
+  - name: Youtube
+    icon: youtube
+    username: "LibbyHKoolik"
+    url: https://www.youtube.com/channel/UCM2oIOTN1uNVH4SNuAFATdg
+    desc: Check out my videos on Youtube
+    share: true
+
   - name: Instagram
     icon: instagram
     username: "sully.the.kitty.cat"
