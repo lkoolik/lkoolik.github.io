@@ -28,7 +28,7 @@ main_nav: true
 
 <h3>Presentations</h3>
 <ul>
-  <li>(<em>Upcoming</em>) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>)</li>
+  <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>)</li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. (<a href="https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf">abstract</a>, <a href="https://www.youtube.com/live/o81og34HRfw?si=4AH7Bvb-w2o41OHT">video</a>)</li>
 </ul>
 
