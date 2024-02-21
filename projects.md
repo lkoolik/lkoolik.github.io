@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 main_nav: true
+has_children: true
 ---
 
 ## Projects
