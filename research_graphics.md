@@ -21,3 +21,6 @@ I designed this graphic to show how there are individual layers of the InMAP Sou
 I designed this graphic to illustrate how a fine-scale resolution model like InMAP can be trained by the parameters from a lower-spatial resolution model like CMAQ or WRF-Chem.
 
 ![Visual representation of how the ISRM is trained on a larger scale chemical-transport model like CMAQ or WRF]({{ site.baseurl }}/assets/research_graphics/cmaq_to_isrm-fixed-01.png "Visual representation of how the ISRM is trained on a larger scale chemical-transport model like CMAQ or WRF"){:.profile}
+
+I generated this map in Python to help show the irregular grid over the [California ISRM](https://zenodo.org/records/7548607).
+![Example California ISRM grid]({{ site.baseurl }}/assets/research_graphics/example_isrm_grid-01.png "Example California ISRM grid"){:.profile}
