@@ -98,8 +98,8 @@ social:
     share: true
 
   - name: Goodreads
-    icon: goodreads
-    username: "libby_hk"
+    icon: goodreads-g
+    username: "Libby's Book Reviews"
     url: https://www.goodreads.com/libby_hk
     desc: Book reviews via Goodreads
     share: true
