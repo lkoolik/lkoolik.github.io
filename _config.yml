@@ -106,9 +106,9 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: "sully.the.kitty.cat"
-    url: https://instagram.com/sully.the.kitty.cat
-    desc: Follow my cat Sully on Instagram
+    username: "sully.and.ivy"
+    url: https://www.instagram.com/sully.and.ivy/
+    desc: Follow my cats on Instagram
     share: true
 
 # Social sharing protocols
