@@ -23,7 +23,6 @@ main_nav: true
   <li>(<i>in review</i>) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
 . <i> Submitted for review</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws">preprint</a>)</li>
   <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
-  <li>(03/2018-06/2021) Monthly contributor to the "Recent Scientific Studies on Climate Change" section of the Argent Communications Group <i>Climate Change Law & Policy Reporter</i></li>
 </ul>
 
 <hr>
