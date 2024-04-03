@@ -20,7 +20,7 @@ main_nav: true
 
 <h3>Publications</h3>
 <ul>
-  <li>(<i>submitted</i>) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
+  <li>(<i>in review</i>) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
 . <i> Submitted for review</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws">preprint</a>)</li>
   <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
   <li>(03/2018-06/2021) Monthly contributor to the "Recent Scientific Studies on Climate Change" section of the Argent Communications Group <i>Climate Change Law & Policy Reporter</i></li>
@@ -30,6 +30,7 @@ main_nav: true
 
 <h3>Presentations</h3>
 <ul>
+  <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> Joint AGU/AMS Climate and Health Showcase</i>. </li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>, <a href="https://agu23.ipostersessions.com/Default.aspx?s=FF-09-E2-4C-26-D4-09-E3-C2-CE-6B-CC-C2-18-BF-D0">iPoster video</a>)</li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. (<a href="https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf">abstract</a>, <a href="https://www.youtube.com/live/o81og34HRfw?si=4AH7Bvb-w2o41OHT">video</a>)</li>
 </ul>
@@ -38,7 +39,8 @@ main_nav: true
 
 <h3>Awards and Fellowships</h3>
 <ul>
-  <li>(2023) Hearts to Humanity Eternal Graduate Fellowship 2023.</li>
+  <li>(2024) American Geophysical Union, Outstanding Student Presentation Award.</li>
+  <li>(2023) Hearts to Humanity Eternal Graduate Fellowship</li>
   <li>(2023) Health Effects Institute, Jane Warren Award.</li>
   <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
   <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
@@ -89,6 +91,7 @@ main_nav: true
 <h3>Volunteering & Mentorship</h3>
 <h4>Undergraduate Research Supervision</h4>
 <ul>
+  <li>(04/2024-present) Amy Yao: <em>Updating and Maintaining the ECHO-AIR Model</em> </li>
   <li>(01/2023-present) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
   <li>(09/2022-05/2023) Thomas Le: <em>Developing Pipelines for Estimating Stationary Source Exposures</em></li>
 </ul>
