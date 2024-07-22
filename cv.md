@@ -105,5 +105,6 @@ main_nav: true
 
 <h4>Volunteering</h4>
 <ul>
-  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023 coordinator</li>
+  <li>(05/2024-present) Wildfire Smoke Filtration Workshops for La Clinica (<a href="https://laclinica.org/">link</a>): coordinated educational materials and in-person workshop about wildfire smoke, health effects of air pollution, and how to build low-cost filters </li>
+  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
 </ul>
