@@ -123,4 +123,5 @@ main_nav: true
 <ul>
   <li>(06/2024-present) American Geophysical Union Geohealth Early Career Committee </li>
   <li>(2024) Early career session convener for AGU 2024 </li>
+  <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
 </ul>
