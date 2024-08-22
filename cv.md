@@ -18,17 +18,26 @@ main_nav: true
 
 <hr>
 
-<h3>Publications</h3>
+<h3>Peer-Reviewed Publications</h3>
 <ul>
-  <li>(<i>in review</i>) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
+  <li>(<i>in press</i>) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
 . <i> In review</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws">preprint</a>)</li>
   <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
 </ul>
 
 <hr>
 
+<h3>Working Papers</h3>
+<ul>
+  <li><b>Koolik, L. H.</b>, Alvarado, Á., Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Plummer, L., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction.</li> 
+  <li>Rojas Mendoza, L., <b>Koolik, L. H.</b>, Wang, Y., Marshall, J. D., and Apte, J. S.: Analyzing sources and spatial scales of air pollution disparities in California.</li>
+</ul>
+
+<hr>
+
 <h3>Presentations</h3>
 <ul>
+  <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i>International Society for Environmental Epidemiology Annual Meeting</i></li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. Invited talk for the <i>AGU GeoHealth OSPA Award-Winning Talks</i> Webinar. (<a href="https://www.youtube.com/watch?v=LAqIPNALz8U">video</a>)</li>
   <li>(2024) <b>Koolik, L. H.</b>, Marshall, J. D., and Apte, J. S.: A conceptual framework towards equity-oriented decision-making in air pollution. <i> Health Effects Institute Annual Conference 2024</i>. </li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> Joint AGU/AMS Climate and Health Showcase</i>. </li>
@@ -54,8 +63,9 @@ main_nav: true
 <h4>Apte Group Laboratory</h4>
 <i> University of California, Berkeley </i> 
 
-<b> Graduate Student Researcher </b> (08/2021-present)
+<b> Graduate Student Researcher and PhD Candidate </b> (08/2021-present)
 <ul>
+  <li>Identifies critical policy strategies for mitigating exposure disparities.</li>
   <li>Develops computational pipelines for estimating PM<sub>2.5</sub> exposure disparities associated with changes in emissions.</li>
   <li>Coordinates with California Office of Environmental Health Hazard Assessments and environmental justice groups to provide useful tools for iterating through emissions scenarios.</li>
 </ul>
@@ -107,4 +117,10 @@ main_nav: true
 <ul>
   <li>(05/2024-present) Wildfire Smoke Filtration Workshops for La Clinica (<a href="https://laclinica.org/">link</a>): coordinated educational materials and in-person workshop about wildfire smoke, health effects of air pollution, and how to build low-cost filters </li>
   <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
+</ul>
+
+<h4>Aademic Service</h4>
+<ul>
+  <li>(06/2024-present) American Geophysical Union Geohealth Early Career Committee </li>
+  <li>(2024) Early career session convener for AGU 2024 </li>
 </ul>
