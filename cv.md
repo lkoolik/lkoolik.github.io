@@ -119,9 +119,10 @@ main_nav: true
   <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
 </ul>
 
-<h4>Aademic Service</h4>
+<h4>Aademic Service and Teaching</h4>
 <ul>
   <li>(06/2024-present) American Geophysical Union Geohealth Early Career Committee </li>
   <li>(2024) Early career session convener for AGU 2024 </li>
+  <li>(Fall 2022) Graduate student instructor for graduate-level course on Exposure Assessments (PBHLTH 270A). </li>
   <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
 </ul>
