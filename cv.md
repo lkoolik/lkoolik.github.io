@@ -103,7 +103,7 @@ main_nav: true
 <h4>Undergraduate Research Supervision</h4>
 <ul>
   <li>(04/2024-present) Amy Yao: <em>Updating and Maintaining the ECHO-AIR Model</em> </li>
-  <li>(01/2023-present) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
+  <li>(01/2023-06/2024) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
   <li>(09/2022-05/2023) Thomas Le: <em>Developing Pipelines for Estimating Stationary Source Exposures</em></li>
 </ul>
 
