@@ -21,7 +21,7 @@ main_nav: true
 <h3>Peer-Reviewed Publications</h3>
 <ul>
   <li>(2024) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
-. <i> In press</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws">preprint</a>)</li>
+. <i> In press</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws-v2">preprint</a>)</li>
   <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
 </ul>
 
@@ -39,7 +39,7 @@ main_nav: true
 <ul>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i>International Society for Environmental Epidemiology Annual Meeting</i></li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. Invited talk for the <i>AGU GeoHealth OSPA Award-Winning Talks</i> Webinar. (<a href="https://www.youtube.com/watch?v=LAqIPNALz8U">video</a>)</li>
-  <li>(2024) <b>Koolik, L. H.</b>, Marshall, J. D., and Apte, J. S.: A conceptual framework towards equity-oriented decision-making in air pollution. <i> Health Effects Institute Annual Conference 2024</i>. </li>
+  <li>(2024) <b>Koolik, L. H.</b>, Marshall, J. D., and Apte, J. S.: A conceptual framework towards equity-oriented decision-making in air pollution. <i> Health Effects Institute Annual Conference 2024</i>. (<a href="https://www.healtheffects.org/sites/default/files/2024-abstracts.pdf">abstract on page 5</a>)</li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> Joint AGU/AMS Climate and Health Showcase</i>. </li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>, <a href="https://agu23.ipostersessions.com/Default.aspx?s=FF-09-E2-4C-26-D4-09-E3-C2-CE-6B-CC-C2-18-BF-D0">iPoster video</a>)</li>
   <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. (<a href="https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf">abstract</a>, <a href="https://www.youtube.com/live/o81og34HRfw?si=4AH7Bvb-w2o41OHT">video</a>)</li>
@@ -121,8 +121,8 @@ main_nav: true
 
 <h4>Aademic Service and Teaching</h4>
 <ul>
-  <li>(06/2024-present) American Geophysical Union Geohealth Early Career Committee </li>
-  <li>(2024) Early career session convener for AGU 2024 </li>
-  <li>(Fall 2022) Graduate student instructor for graduate-level course on Exposure Assessments (PBHLTH 270A). </li>
+  <li>American Geophysical Union Geohealth Early Career Committee.</li>
+  <li>Early career session convener for AGU 2024.</li>
+  <li>Graduate student instructor for graduate-level course at UC Berkeley on Exposure Assessments (PBHLTH 270A) in Fall 2022. </li>
   <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
 </ul>
