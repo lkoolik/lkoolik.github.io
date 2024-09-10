@@ -20,8 +20,8 @@ main_nav: true
 
 <h3>Peer-Reviewed Publications</h3>
 <ul>
-  <li>(2024) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California
-. <i> In press</i>. (<a href="https://doi.org/10.26434/chemrxiv-2023-669ws-v2">preprint</a>)</li>
+  <li><b>Koolik, L. H.</b>, Alvarado, Á., Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Plummer, L., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>Submitted for review.</i> </li> 
+  <li>(2024) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California. (<a href="https://doi.org/10.1126/sciadv.adn8544">link</a>)</li>
   <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
 </ul>
 
@@ -29,7 +29,6 @@ main_nav: true
 
 <h3>Working Papers</h3>
 <ul>
-  <li><b>Koolik, L. H.</b>, Alvarado, Á., Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Plummer, L., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction.</li> 
   <li>Rojas Mendoza, L., <b>Koolik, L. H.</b>, Wang, Y., Marshall, J. D., and Apte, J. S.: Analyzing sources and spatial scales of air pollution disparities in California.</li>
 </ul>
 
