@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /Research/
 main_nav: true
+nav_order: 3
 ---
 
 <p>My research interests lie at the intersection of air quality engineering, exposure science, public policy, and environmental justice. Using reduced-complexity air modeling tools and principles of data science, I engineer policy solutions for ameliorating disparate air pollution exposures burdening communities of color in California and across the United States.</p>
