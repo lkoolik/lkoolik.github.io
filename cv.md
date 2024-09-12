@@ -5,7 +5,7 @@ permalink: /CV/
 main_nav: true
 ---
 
-<p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV here.</p>
+<p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://github.com/lkoolik/lkoolik.github.io/blob/main/assets/Libby H Koolik CV.pdf">here</a>.</p>
 
 <hr>
 
