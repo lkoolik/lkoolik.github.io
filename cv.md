@@ -5,7 +5,7 @@ permalink: /CV/
 main_nav: true
 ---
 
-<p>Below are the academic highlights from the most recent version of my CV. For more information, please feel free to send me an email.</p>
+<p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://github.com/lkoolik/lkoolik.github.io/blob/main/assets/Libby H Koolik CV.pdf">here</a>.</p>
 
 <hr>
 
@@ -14,34 +14,6 @@ main_nav: true
   <li>(<em>In Progress</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua S. Apte.</li>
   <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols (<a href="http://hdl.handle.net/1721.1/115782">link</a>). Advisor: Daniel J. Cziczo.</li>
   <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator (<a href="http://hdl.handle.net/1721.1/114346">link</a>). Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
-</ul>
-
-<hr>
-
-<h3>Peer-Reviewed Publications</h3>
-<ul>
-  <li><b>Koolik, L. H.</b>, Alvarado, Á., Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Plummer, L., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>Submitted for review.</i> </li> 
-  <li>(2024) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California. (<a href="https://doi.org/10.1126/sciadv.adn8544">link</a>)</li>
-  <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
-</ul>
-
-<hr>
-
-<h3>Working Papers</h3>
-<ul>
-  <li>Rojas Mendoza, L., <b>Koolik, L. H.</b>, Wang, Y., Marshall, J. D., and Apte, J. S.: Analyzing sources and spatial scales of air pollution disparities in California.</li>
-</ul>
-
-<hr>
-
-<h3>Presentations</h3>
-<ul>
-  <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i>International Society for Environmental Epidemiology Annual Meeting</i></li>
-  <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. Invited talk for the <i>AGU GeoHealth OSPA Award-Winning Talks</i> Webinar. (<a href="https://www.youtube.com/watch?v=LAqIPNALz8U">video</a>)</li>
-  <li>(2024) <b>Koolik, L. H.</b>, Marshall, J. D., and Apte, J. S.: A conceptual framework towards equity-oriented decision-making in air pollution. <i> Health Effects Institute Annual Conference 2024</i>. (<a href="https://www.healtheffects.org/sites/default/files/2024-abstracts.pdf">abstract on page 5</a>)</li>
-  <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> Joint AGU/AMS Climate and Health Showcase</i>. </li>
-  <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i> American Geophysical Union Fall Meeting 2023</i>. (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353220">abstract</a>, <a href="https://agu23.ipostersessions.com/Default.aspx?s=FF-09-E2-4C-26-D4-09-E3-C2-CE-6B-CC-C2-18-BF-D0">iPoster video</a>)</li>
-  <li>(2023) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: Racial-Ethnic Disparities in Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources Remain After Decades of Emissions Controls. <i> Health Effects Institute Annual Conference 2023</i>. (<a href="https://www.healtheffects.org/system/files/koolik-abstract-ac2023.pdf">abstract</a>, <a href="https://www.youtube.com/live/o81og34HRfw?si=4AH7Bvb-w2o41OHT">video</a>)</li>
 </ul>
 
 <hr>
