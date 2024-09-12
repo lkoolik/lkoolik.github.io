@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 main_nav: true
 has_children: true
+nav_order: 4
 ---
 
 ## Projects
