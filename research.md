@@ -13,7 +13,7 @@ nav_order: 3
 <h3>Peer-Reviewed Publications</h3>
 <ul>
   <li>(2024) <b>Koolik, L. H.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J. D., and Apte, J. S.: PM<sub>2.5</sub> exposure disparities persist despite strict vehicle emissions controls in California. (<a href="https://doi.org/10.1126/sciadv.adn8544">Open-Access Link</a>) (Press Coverage: <a href="https://news.berkeley.edu/2024/09/11/california-has-dramatically-improved-its-air-quality-but-racial-disparities-persist/">UC Berkeley News</a>, <a href="https://www.kqed.org/science/1994307/californians-are-breathing-far-less-vehicle-pollution-but-disparities-are-widening">KQED</a>, <a href="https://insideclimatenews.org/news/11092024/california-vehicle-emissions-exposure-disparity/">Inside Climate News</a>)</li>
-  <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">link</a>)</li>
+  <li>(2022) <b>Koolik, L.</b>, Roesch, M., Dameto de Espana, C., Rapp, C. N., Franco Deloya, L. J., Shen, C., Hallar, A. G., McCubbin, I. B., and Cziczo, D. J.: A phase separation inlet for droplets, ice residuals, and interstitial aerosol particles. <i> Atmospheric Measurement Techniques</i>. (<a href="https://doi.org/10.5194/amt-15-3213-2022">Open-Access Link</a>)</li>
 </ul>
 
 <hr>
