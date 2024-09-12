@@ -9,15 +9,6 @@ main_nav: true
 
 <hr>
 
-<h3>Education</h3>
-<ul>
-  <li>(<em>In Progress</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua S. Apte.</li>
-  <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols (<a href="http://hdl.handle.net/1721.1/115782">link</a>). Advisor: Daniel J. Cziczo.</li>
-  <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator (<a href="http://hdl.handle.net/1721.1/114346">link</a>). Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
-</ul>
-
-<hr>
-
 <h3>Peer-Reviewed Publications</h3>
 <ul>
   <li><b>Koolik, L. H.</b>, Alvarado, Á., Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Plummer, L., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>Submitted for review.</i> </li> 
@@ -46,82 +37,9 @@ main_nav: true
 
 <hr>
 
-<h3>Awards and Fellowships</h3>
+<h3>Press</h3>
 <ul>
-  <li>(2024) American Geophysical Union, Outstanding Student Presentation Award.</li>
-  <li>(2023) Hearts to Humanity Eternal Graduate Fellowship</li>
-  <li>(2023) Health Effects Institute, Jane Warren Award.</li>
-  <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
-  <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
-  <li>(2016) MIT Department of Earth, Atmospheric, and Planetary Science Achievement Award.</li>
-</ul>
-
-<hr>
-
-<h3>Research Experience</h3>
-<h4>Apte Group Laboratory</h4>
-<i> University of California, Berkeley </i> 
-
-<b> Graduate Student Researcher and PhD Candidate </b> (08/2021-present)
-<ul>
-  <li>Identifies critical policy strategies for mitigating exposure disparities.</li>
-  <li>Develops computational pipelines for estimating PM<sub>2.5</sub> exposure disparities associated with changes in emissions.</li>
-  <li>Coordinates with California Office of Environmental Health Hazard Assessments and environmental justice groups to provide useful tools for iterating through emissions scenarios.</li>
-</ul>
-
-<h4>Cziczo Group Laboratory</h4>
-<i> Massachusetts Institute of Technology </i>
-
-<b> Graduate Research Fellow </b> (02/2017-01/2018)
-<ul>
-  <li>Designed and constructed a first of its kind comprehensive phase-separation inlet system for studying the aerosols that activate water droplet and ice crystal nucleation in mixed-phase clouds.</li>
-  <li>Demonstrated proof of concept during a field campaign at the summit of Mt. Washington by measuring mixed-phase clouds using the inlet.</li>
-  <li>Constructed 3D models of individual unique instrument components and fabricated them using a stereolithographic 3D printer.</li>
-  <li>Wrote computational pipelines in Matlab for analyzing large amounts of particle concentration data collected through laboratory and field studies.</li>
-  <li>Developed computational models for understanding droplet evaporation and breakup to inform air flows through the instrument.</li>
-</ul>
-
-<b> Undergraduate Researcher </b> (09/2015-12/2016)
-<ul>
-  <li>Designed and tested the first 3D printed prototype of both an aerosol size-selecting device and a particle concentrator to allow for a more thorough investigation of cloud nucleating particle properties.</li>
-  <li>Investigated an important unknown in the climate system by testing affinity for contact freezing of super-cooled atmospheric water droplets under various atmospheric conditions simulated in a chamber.</li>
-</ul>
-
-<h4>Selin Group Laboratory</h4>
-<i> Massachusetts Institute of Technology </i>
-
-<b> Undergraduate Researcher </b> (08/2014-12/2014)
-<ul>
-  <li>Compared levels of ozone and particulate matter in different policy scenarios with overall costs of implementation, contributing to a report to the EPA that advises them on which policy to pursue.</li>
-  <li>Performed BenMAP simulations, contributing to results published in a paper entitled “U.S. Air Quality and Health Benefits from Avoided Climate Change under Greenhouse Gas Mitigation” (Garcia-Menendez 2015).</li>
-</ul>
-
-<hr>
-
-<h3>Volunteering & Mentorship</h3>
-<h4>Undergraduate Research Supervision</h4>
-<ul>
-  <li>(04/2024-present) Amy Yao: <em>Updating and Maintaining the ECHO-AIR Model</em> </li>
-  <li>(01/2023-06/2024) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
-  <li>(09/2022-05/2023) Thomas Le: <em>Developing Pipelines for Estimating Stationary Source Exposures</em></li>
-</ul>
-
-<h4>Other Mentorship</h4>
-<ul>
-  <li>(09/2022-present) MIT Terrascope Alumni Mentor (<a href="https://terrascope.mit.edu/community/mentors/">link</a>): provide support to freshman learning community focused on solving environmental problems</li>
-  <li>(09/2022-present) GWE x SWE Mentoring: mentor undergraduate women in engineering, providing career and academic advice</li>
-</ul>
-
-<h4>Volunteering</h4>
-<ul>
-  <li>(05/2024-present) Wildfire Smoke Filtration Workshops for La Clinica (<a href="https://laclinica.org/">link</a>): coordinated educational materials and in-person workshop about wildfire smoke, health effects of air pollution, and how to build low-cost filters </li>
-  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
-</ul>
-
-<h4>Aademic Service and Teaching</h4>
-<ul>
-  <li>American Geophysical Union Geohealth Early Career Committee.</li>
-  <li>Early career session convener for AGU 2024.</li>
-  <li>Graduate student instructor for graduate-level course at UC Berkeley on Exposure Assessments (PBHLTH 270A) in Fall 2022. </li>
-  <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
+  <li>(Sept. 11, 2024) California has dramatically improved its air quality, but racial disparities persist. <it>UC Berkeley News</it> (<a href="https://news.berkeley.edu/2024/09/11/california-has-dramatically-improved-its-air-quality-but-racial-disparities-persist/">link</a>) </li>
+  <li>(Sept. 11, 2024) California Slashed Harmful Vehicle Emissions, but People of Color and Overburdened Communities Continue to Breathe the Worst Air. <it>Inside Climate News</it> (<a href="https://insideclimatenews.org/news/11092024/california-vehicle-emissions-exposure-disparity/">link</a>) </li>
+  <li>(Sept. 11, 2024) Californians Are Breathing Far Less Vehicle Pollution, but Disparities Are Widening. <it>KQED</it> (<a href="https://www.kqed.org/science/1994307/californians-are-breathing-far-less-vehicle-pollution-but-disparities-are-widening">link</a>) </li>
 </ul>
