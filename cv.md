@@ -6,7 +6,7 @@ main_nav: true
 nav_order: 2
 ---
 
-<p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://github.com/lkoolik/lkoolik.github.io/blob/main/assets/Libby H Koolik CV.pdf">here</a>.</p>
+<p>Below are the academic highlights from the most recent version of my CV. You can download a full copy of my CV <a href="https://github.com/lkoolik/lkoolik.github.io/blob/main/assets/Libby H Koolik CV.pdf" target="_blank">here</a>.</p>
 
 <hr>
 
