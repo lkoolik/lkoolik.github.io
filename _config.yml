@@ -83,6 +83,13 @@ social:
     desc: Follow me on Twitter
     share: true
 
+  - name: Bluesky
+    icon: bluesky
+    username: libbyhkoolik
+    url: https://bsky.app/profile/libbyhkoolik.bsky.social
+    desc: Follow me on Bluesky
+    share: true
+
   - name: LinkedIn
     icon: linkedin
     username: Libby H. Koolik
