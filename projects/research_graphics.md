@@ -20,8 +20,46 @@ I have drawn a number of icons for use in my research talks. These graphics are 
 
 #### Computer Modeling
 <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
-  <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="computer model" width="50"/>
+  <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="computer model" width="25"/>
 </a>
+
+<table style="border: none; width: 100%; height: 100%; table-layout: fixed;">
+  <tr>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="Computer Modeling" width="25"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/idea-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/idea-01.png" alt="Ideation" width="25"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/policy-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="25"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="25"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/satellite-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/satellite-01.png" alt="Satellites" width="25"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png">
+        <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="25"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### InMAP Methodology
