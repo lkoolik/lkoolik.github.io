@@ -17,50 +17,50 @@ I take a lot of pride in my Powerpoint presentation format. I have saved a UC Be
 ### Custom Icons for Air Pollution Policy Research
 
 I have drawn a number of icons for use in my research talks. These graphics are saved as PNGs on my Github repository, but I have SVG and illustrator files for further customization available via email.
-
-<table style="border: none; width: 50%; height: 50%; table-layout: fixed;">
-  <tr>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Computer Modeling
-      <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="Computer Modeling" width="25"/>
-      </a>
-    </td>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Ideation
-      <a href="{{ site.baseurl }}/assets/research_graphics/idea-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/idea-01.png" alt="Ideation" width="25"/>
-      </a>
-    </td>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Policy
-      <a href="{{ site.baseurl }}/assets/research_graphics/policy-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="20"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Reference Monitor
-      <a href="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="10"/>
-      </a>
-    </td>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Satellite
-      <a href="{{ site.baseurl }}/assets/research_graphics/satellite-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/satellite-01.png" alt="Satellites" width="25"/>
-      </a>
-    </td>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      Sources of Air Pollution
-      <a href="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="30"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <table style="border: none; width: 50%; height: 50%; table-layout: fixed;">
+    <tr>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Computer Modeling
+        <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="Computer Modeling" width="25"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Ideation
+        <a href="{{ site.baseurl }}/assets/research_graphics/idea-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/idea-01.png" alt="Ideation" width="25"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Policy
+        <a href="{{ site.baseurl }}/assets/research_graphics/policy-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="20"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Reference Monitor
+        <a href="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="10"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Satellite
+        <a href="{{ site.baseurl }}/assets/research_graphics/satellite-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/satellite-01.png" alt="Satellites" width="25"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Sources of Air Pollution
+        <a href="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="30"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### InMAP Methodology
