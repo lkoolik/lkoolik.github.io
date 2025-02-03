@@ -18,16 +18,14 @@ I take a lot of pride in my Powerpoint presentation format. I have saved a UC Be
 
 I have drawn a number of icons for use in my research talks. These graphics are saved as PNGs on my Github repository, but I have SVG and illustrator files for further customization available via email.
 
-#### Computer Modeling
-<a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
-  <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="computer model" width="25"/>
-</a>
-
 <table style="border: none; width: 100%; height: 100%; table-layout: fixed;">
   <tr>
     <td style="border: none; text-align: center;">
       <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="Computer Modeling" width="25"/>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 16px; font-weight: bold;">
+          Computer Modeling
+        </div>
       </a>
     </td>
     <td style="border: none; text-align: center;">
@@ -37,14 +35,14 @@ I have drawn a number of icons for use in my research talks. These graphics are 
     </td>
     <td style="border: none; text-align: center;">
       <a href="{{ site.baseurl }}/assets/research_graphics/policy-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="25"/>
+        <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="20"/>
       </a>
     </td>
   </tr>
   <tr>
     <td style="border: none; text-align: center;">
       <a href="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="25"/>
+        <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="10"/>
       </a>
     </td>
     <td style="border: none; text-align: center;">
@@ -54,7 +52,7 @@ I have drawn a number of icons for use in my research talks. These graphics are 
     </td>
     <td style="border: none; text-align: center;">
       <a href="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png">
-        <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="25"/>
+        <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="30"/>
       </a>
     </td>
   </tr>
@@ -67,11 +65,18 @@ The following images help visualize the [InMAP Source-Receptor Matrix](https://z
 
 I designed this graphic to show how there are individual layers of the InMAP Source Receptor Matrix (ISRM) for each pollutant. 
 
-![Visual representation of the ISRM layers]({{ site.baseurl }}/assets/research_graphics/isrm_layers-01.png "Visual representation of the ISRM layers"){:.profile}
+<a href="{{ site.baseurl }}/assets/research_graphics/isrm_layers-01.png">
+  <img src="{{ site.baseurl }}/assets/research_graphics/isrm_layers-01.png" alt="Visual representation of the ISRM layers" width="50"/>
+</a>
 
 I designed this graphic to illustrate how a fine-scale resolution model like InMAP can be trained by the parameters from a lower-spatial resolution model like CMAQ or WRF-Chem.
 
-![Visual representation of how the ISRM is trained on a larger scale chemical-transport model like CMAQ or WRF]({{ site.baseurl }}/assets/research_graphics/cmaq_to_isrm-fixed-01.png "Visual representation of how the ISRM is trained on a larger scale chemical-transport model like CMAQ or WRF"){:.profile}
+<a href="{{ site.baseurl }}/assets/research_graphics/cmaq_to_isrm-fixed-01.png">
+  <img src="{{ site.baseurl }}/assets/research_graphics/cmaq_to_isrm-fixed-01.png" alt="Visual representation of how the ISRM is trained on a larger scale chemical-transport model like CMAQ or WRF" width="50"/>
+</a>
 
 I generated this map in Python to help show the irregular grid over the [California ISRM](https://zenodo.org/records/7548607).
-![Example California ISRM grid]({{ site.baseurl }}/assets/research_graphics/example_isrm_grid-01.png "Example California ISRM grid"){:.profile}
+
+<a href="{{ site.baseurl }}/assets/research_graphics/example_isrm_grid-01.png">
+  <img src="{{ site.baseurl }}/assets/research_graphics/example_isrm_grid-01.png" alt="Example California ISRM grid" width="50"/>
+</a>
