@@ -17,8 +17,8 @@ I take a lot of pride in my Powerpoint presentation format. I have saved a UC Be
 ### Custom Icons for Air Pollution Policy Research
 
 I have drawn a number of icons for use in my research talks. These graphics are saved as PNGs on my Github repository, but I have SVG and illustrator files for further customization available via email.
-<div style="display: flex; justify-content: center; height: 100vh;">
-  <table style="border: none; width: 50%; height: 50%; table-layout: fixed;">
+<div style="display: flex; justify-content: center;">
+  <table style="border: none; width: 50%; table-layout: fixed;">
     <tr>
       <td style="border: none; text-align: center; vertical-align: middle;">
         Computer Modeling
