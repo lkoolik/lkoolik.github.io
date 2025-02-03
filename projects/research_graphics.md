@@ -21,19 +21,19 @@ I have drawn a number of icons for use in my research talks. These graphics are 
 <table style="border: none; width: 50%; height: 50%; table-layout: fixed;">
   <tr>
     <td style="border: none; text-align: center; vertical-align: middle;">
-      <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" style="display: block; position: relative; width: 20px; height: 20px;">
+      Computer Modeling
+      <a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="Computer Modeling" width="25"/>
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 16px; font-weight: bold;">
-          Computer Modeling
-        </div>
       </a>
     </td>
     <td style="border: none; text-align: center; vertical-align: middle;">
+      Ideation
       <a href="{{ site.baseurl }}/assets/research_graphics/idea-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/idea-01.png" alt="Ideation" width="25"/>
       </a>
     </td>
     <td style="border: none; text-align: center; vertical-align: middle;">
+      Policy
       <a href="{{ site.baseurl }}/assets/research_graphics/policy-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/policy-01.png" alt="Policy" width="20"/>
       </a>
@@ -41,16 +41,19 @@ I have drawn a number of icons for use in my research talks. These graphics are 
   </tr>
   <tr>
     <td style="border: none; text-align: center; vertical-align: middle;">
+      Reference Monitor
       <a href="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/reference_monitor-01.png" alt="Reference Air Pollution Monitor" width="10"/>
       </a>
     </td>
     <td style="border: none; text-align: center; vertical-align: middle;">
+      Satellite
       <a href="{{ site.baseurl }}/assets/research_graphics/satellite-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/satellite-01.png" alt="Satellites" width="25"/>
       </a>
     </td>
     <td style="border: none; text-align: center; vertical-align: middle;">
+      Sources of Air Pollution
       <a href="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png">
         <img src="{{ site.baseurl }}/assets/research_graphics/source_w_plume-01.png" alt="Air pollution sources" width="30"/>
       </a>
