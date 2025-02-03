@@ -19,9 +19,10 @@ I take a lot of pride in my Powerpoint presentation format. I have saved a UC Be
 I have drawn a number of icons for use in my research talks. These graphics are saved as PNGs on my Github repository, but I have SVG and illustrator files for further customization available via email.
 
 #### Computer Modeling
-![Computer running a model]({{ site.baseurl }}/assets/research_graphics/computer_model-01.png "Computer running a model"){:.profile}
+<a href="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png">
+  <img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="computer model" width="50"/>
+</a>
 
-<img src="{{ site.baseurl }}/assets/research_graphics/computer_model-01.png" alt="computer model" width="200"/>
 
 ### InMAP Methodology
 The following images help visualize the [InMAP Source-Receptor Matrix](https://zenodo.org/records/7548607) created by Chris Tessum et al.
