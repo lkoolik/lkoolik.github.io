@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/8c8c34ea-eaf3-4f2f-b581-4b3b4a86b4ef)---
 layout: page
 title: CV
 permalink: /CV/
@@ -27,6 +27,46 @@ nav_order: 2
   <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
   <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
   <li>(2016) MIT Department of Earth, Atmospheric, and Planetary Science Achievement Award.</li>
+</ul>
+
+<hr>
+
+<h3>Mentorship & Service</h3>
+<h4>Undergraduate Research Supervision</h4>
+<ul>
+  <li>(12/2024-present) Meghana Raj: <em>Comparing Methodologies for Air Pollution Health Impact Assessments in Open-Source Modeling for Equity in California</em> </li>
+  <li>(12/2024-present) Benjamin Salop: <em>Future-Proofing Open-Source, Accessible Air Pollution Modeling Pipelines for Increased Usability</em> </li>
+  <li>(04/2024-09/2024) Amy Yao: <em>Developing Automated Techniques for Processing Complex Population Data</em> </li>
+  <li>(01/2023-06/2024) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
+  <li>(09/2022-05/2023) Thomas Le: <em>Increasing Accessibility for Modeling Point Source Emissions</em></li>
+</ul>
+
+<h4>Other Mentorship</h4>
+<ul>
+  <li>(09/2022-present) MIT Terrascope Alumni Mentor (<a href="https://terrascope.mit.edu/community/mentors/">link</a>): provide support and guidance for undergraduate program that challenges freshmen to develop engineering solutions to global environmental problems.</li>
+  <li>(09/2022-present) GWE x SWE Mentoring: provide research and career advice to undergraduate women and non-binary engineers.</li>
+</ul>
+
+<h4>Volunteering</h4>
+<ul>
+  <li>(05/2024-present) Wildfire Smoke Filtration Workshops for La Clinica de la Raza (<a href="https://laclinica.org/">link</a>) and Stockton Unified School District: coordinated educational materials and in-person workshop about wildfire smoke, health effects of air pollution, and how to build low-cost filters </li>
+  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
+</ul>
+
+<h4>Academic Service </h4>
+<ul>
+  <li>American Geophysical Union Geohealth Early Career Committee.</li>
+  <li>Early career session convener for AGU 2024.</li>
+  <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
+</ul>
+
+<h4>Teaching Experience </h4>
+<ul>
+  <li>Graduate student instructor for graduate-level course at UC Berkeley on Exposure Assessments (PBHLTH 270A) in Fall 2022. </li>
+  <li>Teaching Assistant for MIT’s Discover Earth, Atmospheric, and Planetary Sciences Extreme Weather Freshman Program in Fall 2017 and 2018. </li>
+  <li>7th grade chemistry instructor for MIT’s Office of Engineering Outreach Program’s middle school STEM program for Summer 2015. </li>
+  <li>Volunteer and guest teacher as part of MIT and Teach for America’s Four Weeks for America teaching program for Winter 2015. </li>  
+  <li>Undergraduate Teaching Fellow for the Solving Complex Problems course through MIT’s “Mission 2018” cohort of the Terrascope program for Fall 2014. </li>
 </ul>
 
 <hr>
@@ -67,34 +107,4 @@ nav_order: 2
 <ul>
   <li>Compared levels of ozone and particulate matter in different policy scenarios with overall costs of implementation, contributing to a report to the EPA that advises them on which policy to pursue.</li>
   <li>Performed BenMAP simulations, contributing to results published in a paper entitled “U.S. Air Quality and Health Benefits from Avoided Climate Change under Greenhouse Gas Mitigation” (Garcia-Menendez 2015).</li>
-</ul>
-
-<hr>
-
-<h3>Volunteering & Mentorship</h3>
-<h4>Undergraduate Research Supervision</h4>
-<ul>
-  <li>(04/2024-present) Amy Yao: <em>Updating and Maintaining the ECHO-AIR Model</em> </li>
-  <li>(01/2023-06/2024) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
-  <li>(09/2022-05/2023) Thomas Le: <em>Developing Pipelines for Estimating Stationary Source Exposures</em></li>
-</ul>
-
-<h4>Other Mentorship</h4>
-<ul>
-  <li>(09/2022-present) MIT Terrascope Alumni Mentor (<a href="https://terrascope.mit.edu/community/mentors/">link</a>): provide support to freshman learning community focused on solving environmental problems</li>
-  <li>(09/2022-present) GWE x SWE Mentoring: mentor undergraduate women in engineering, providing career and academic advice</li>
-</ul>
-
-<h4>Volunteering</h4>
-<ul>
-  <li>(05/2024-present) Wildfire Smoke Filtration Workshops for La Clinica (<a href="https://laclinica.org/">link</a>): coordinated educational materials and in-person workshop about wildfire smoke, health effects of air pollution, and how to build low-cost filters </li>
-  <li>(09/2021-present) Community Resources for Science (<a href="https://crscience.org/">link</a>): wildfire smoke outreach participant and 2023-2024 coordinator</li>
-</ul>
-
-<h4>Aademic Service and Teaching</h4>
-<ul>
-  <li>American Geophysical Union Geohealth Early Career Committee.</li>
-  <li>Early career session convener for AGU 2024.</li>
-  <li>Graduate student instructor for graduate-level course at UC Berkeley on Exposure Assessments (PBHLTH 270A) in Fall 2022. </li>
-  <li>Peer review for <i>Environmental Science & Technology</i> and <i>GeoHealth</i>. </li>
 </ul>
