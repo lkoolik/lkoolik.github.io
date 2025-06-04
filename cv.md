@@ -21,6 +21,7 @@ nav_order: 2
 
 <h3>Awards and Fellowships</h3>
 <ul>
+  <li>(2025) Philomathia Graduate Fellowship in the Environmental Sciences.</li>
   <li>(2025) Joan Daisey Air Quality Research Award.</li>
   <li>(2025) Lau Foundation Graduate Fellowship in Climate Equity.</li>
   <li>(2024) American Geophysical Union, Outstanding Student Presentation Award.</li>
