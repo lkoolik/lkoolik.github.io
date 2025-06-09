@@ -76,12 +76,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: libbykoolik
-    url: https://twitter.com/libbykoolik
-    desc: Follow me on Twitter
-    share: true
+#  - name: Twitter
+#    icon: twitter
+#    username: libbykoolik
+#    url: https://twitter.com/libbykoolik
+#    desc: Follow me on Twitter
+#    share: true
 
   - name: Bluesky
     icon: bluesky
@@ -111,12 +111,20 @@ social:
     desc: Book reviews via Goodreads
     share: true
 
+  - name: Letterboxd
+    icon: movie
+    username: libbykool
+    url: https://letterboxd.com/libbykool/
+    desc: Movie reviews via Letterboxd
+    share: true
+
   - name: Instagram
     icon: instagram
     username: "sully.and.ivy"
     url: https://www.instagram.com/sully.and.ivy/
     desc: Follow my cats on Instagram
     share: true
+
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
