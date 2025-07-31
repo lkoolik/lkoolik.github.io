@@ -20,7 +20,7 @@ nav_order: 3
 
 <h3>Working Papers</h3>
 <ul>
-  <li><b>Koolik, L. H.</b>, Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>Submitted for review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-793ps">Preprint</a>) </li> 
+  <li><b>Koolik, L. H.</b>, Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-793ps">Preprint</a>) </li> 
   <li>Rojas Mendoza, L., <b>Koolik, L. H.</b>, Wang, Y., Marshall, J. D., and Apte, J. S.: Analyzing sources and spatial scales of air pollution disparities in California.</li>
 </ul>
 
