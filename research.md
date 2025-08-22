@@ -18,10 +18,11 @@ nav_order: 3
 
 <hr>
 
-<h3>Working Papers</h3>
+<h3>Submitted for Review</h3>
 <ul>
   <li><b>Koolik, L. H.</b>, Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-793ps">Preprint</a>) </li> 
   <li><b>Koolik, L. H.</b>, Speizer, S., Rong, C., Chambliss, S., Marshall, J. D., Morello-Frosch, R., Tessum, C., and Apte, J. S.: Methodological Design Choices Can Affect Air Pollution Exposure Disparity Estimates: A Case Study on California’s Agricultural Sector. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-jcdnz">Preprint</a>) </li> 
+  <li>Marshall, J. D., <b>Koolik, L. H.</b>, Ünal, A., Morello-Frosch, R., and Apte, J. S.: Advancing Methods and Models that Promote Equity in Air Quality. <i>In review.</i> </li> 
 </ul>
 
 <hr>
