@@ -21,12 +21,12 @@ nav_order: 2
 
 <h3>Awards and Fellowships</h3>
 <ul>
-  <li>(2025) Philomathia Graduate Fellowship in the Environmental Sciences.</li>
+  <li>(2025) <a href="https://vcresearch.berkeley.edu/philomathiacenter/current-recipients-graduate-student-fellowship">Philomathia Graduate Fellowship in the Environmental Sciences.</a></li>
   <li>(2025) Joan Daisey Air Quality Research Award.</li>
   <li>(2025) Lau Foundation Graduate Fellowship in Climate Equity.</li>
-  <li>(2024) American Geophysical Union, Outstanding Student Presentation Award.</li>
-  <li>(2023) Hearts to Humanity Eternal Graduate Fellowship</li>
-  <li>(2023) Health Effects Institute, Jane Warren Award.</li>
+  <li>(2024) <a href="https://www.agu.org/user-profile?cstkey=44d27db8-aac2-4fae-8e07-dbf1e19e4562">American Geophysical Union, Outstanding Student Presentation Award.</a></li>
+  <li>(2023) <a href="https://h2h8.com/explorer-post/libby-hurtado-koolik/">Hearts to Humanity Eternal Graduate Fellowship</a></li>
+  <li>(2023) <a href="https://www.healtheffects.org/announcements/hei-2023-jane-warren-award-winners">Health Effects Institute, Jane Warren Award.</a></li>
   <li>(2021) University of California, Berkeley Chancellor's Fellowship.</li>
   <li>(2019) Ramboll Extraordinary Individual Contribution to the Business Unit Award.</li>
   <li>(2016) MIT Department of Earth, Atmospheric, and Planetary Science Achievement Award.</li>
