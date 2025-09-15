@@ -59,6 +59,26 @@ I have drawn a number of icons for use in my research talks. These graphics are 
         </a>
       </td>
     </tr>
+    <tr>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Earth
+        <a href="{{ site.baseurl }}/assets/research_graphics/earth.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/earth.png" alt="Earth" width="25"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Equity / Justice
+        <a href="{{ site.baseurl }}/assets/research_graphics/equity.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/equity.png" alt="Equity / Justice" width="25"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Tool Box
+        <a href="{{ site.baseurl }}/assets/research_graphics/toolbox.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/toolbox.png" alt="Tool Box" width="25"/>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
