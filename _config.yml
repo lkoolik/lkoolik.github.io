@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Libby H. Koolik
-subtitle: "PhD Candidate at UC Berkeley Studying Air Pollution Exposures"
+subtitle: "Air Quality Engineer Studying the Climate-Health-Equity Nexus"
 email: koolik@berkeley.edu
 name: Libby H. Koolik
 description: >
-  The personal and professional website of Libby H. Koolik, a PhD candidate at UC Berkeley studying air pollution. Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
+  The personal and professional website of Libby H. Koolik. Website made possible by Ben Centra and the kindness of open source code. Thanks, Ben!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -31,7 +31,7 @@ highlightjs_theme: "monokai-sublime"
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
-  enabled: true
+  enabled: false
   per_page: 5
   permalink: "/page/:num/"
   sort_reverse: true
@@ -53,12 +53,12 @@ pagination:
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: inlet
-    desc: "Posts about the SPIDER work conducted at MIT."
+#descriptions:
+#  - cat: inlet
+#    desc: "Posts about the SPIDER work conducted at MIT."
 
-  - cat: berkeley
-    desc: ""
+#  - cat: berkeley
+#    desc: ""
 
 # Social icons and sharing options
 #
@@ -84,7 +84,7 @@ social:
 #    share: true
 
   - name: Bluesky
-    icon: bluesky
+    icon: twitter
     username: libbyhkoolik
     url: https://bsky.app/profile/libbyhkoolik.bsky.social
     desc: Follow me on Bluesky
@@ -104,27 +104,12 @@ social:
     desc: Check out my videos on Youtube
     share: true
 
-  - name: Goodreads
-    icon: book
-    username: "Libby's Book Reviews"
-    url: https://www.goodreads.com/libby_hk
-    desc: Book reviews via Goodreads
+  - name: Github
+    icon: github
+    username: lkoolik
+    url: https://github.com/lkoolik
+    desc: Open Source Code
     share: true
-
-  - name: Letterboxd
-    icon: movie
-    username: libbykool
-    url: https://letterboxd.com/libbykool/
-    desc: Movie reviews via Letterboxd
-    share: true
-
-  - name: Instagram
-    icon: instagram
-    username: "sully.and.ivy"
-    url: https://www.instagram.com/sully.and.ivy/
-    desc: Follow my cats on Instagram
-    share: true
-
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
