@@ -23,7 +23,7 @@ nav_order: 3
   <li><b>Koolik, L. H.</b>, Bullard, R. D., Min, E., Morello-Frosch, R., Salgado, M., Patterson, R., Wedekind, N., Marshall, J. D., and Apte, J. S.: Eliminating systematic disparities in air pollution exposure requires more than emission reduction. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-793ps">Preprint</a>) </li> 
   <li><b>Koolik, L. H.</b>, Speizer, S., Rong, C., Chambliss, S., Marshall, J. D., Morello-Frosch, R., Tessum, C., and Apte, J. S.: Methodological Design Choices Can Affect Air Pollution Exposure Disparity Estimates: A Case Study on California’s Agricultural Sector. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-jcdnz">Preprint</a>) </li> 
   <li>Marshall, J. D., <b>Koolik, L. H.</b>, Ünal, A., Morello-Frosch, R., and Apte, J. S.: Advancing Methods and Models that Promote Equity in Air Quality. <i>In review.</i> </li> 
-  <li><b>Koolik, L. H.</b> & Manchanda, C (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Modeling Optimal Pathways to a Triple Win in Air Quality, Climate, and Equity. <i>Working Paper.</i> </li> 
+  <li><b>Koolik, L. H.</b> & Manchanda, C (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Modeling Optimal Pathways to a Triple Win in Air Quality, Climate, and Equity. <i>Working Paper.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-c6sn4">Preprint</a>)</li> 
 </ul>
 
 <hr>
