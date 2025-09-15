@@ -65,6 +65,7 @@ nav_order: 2
 
 <h4>Teaching Experience </h4>
 <ul>
+  <li>Engineering discipline leader for the Fall 2025 UC Berkeley Graduate Student Instructor Teaching Conference. </li>
   <li>Graduate student instructor for graduate-level course at UC Berkeley on Exposure Assessments (PBHLTH 270A) in Fall 2022. </li>
   <li>Teaching Assistant for MIT’s Discover Earth, Atmospheric, and Planetary Sciences Extreme Weather Freshman Program in Fall 2017 and 2018. </li>
   <li>7th grade chemistry instructor for MIT’s Office of Engineering Outreach Program’s middle school STEM program for Summer 2015. </li>
