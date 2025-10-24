@@ -20,7 +20,7 @@ nav_order: 3
 
 <hr>
 
-<h3>Submitted for Review</h3>
+<h3>In Review & Working Papers</h3>
 <ul>
   <li><b>Koolik, L. H.</b>, Speizer, S., Rong, C., Chambliss, S., Marshall, J. D., Morello-Frosch, R., Tessum, C., and Apte, J. S.: Methodological Design Choices Can Affect Air Pollution Exposure Disparity Estimates: A Case Study on California’s Agricultural Sector. <i>In review.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-jcdnz">Preprint</a>) </li> 
   <li><b>Koolik, L. H.</b> & Manchanda, C (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Modeling Optimal Pathways to a Triple Win in Air Quality, Climate, and Equity. <i>Working Paper.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-c6sn4">Preprint</a>)</li> 
