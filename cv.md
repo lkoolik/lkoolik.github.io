@@ -12,7 +12,7 @@ nav_order: 2
 
 <h3>Education</h3>
 <ul>
-  <li>(<em>Anticipated 05/2026</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Advisor: Joshua S. Apte.</li>
+  <li>(<em>Anticipated 05/2026</em>) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Dissertation Committee: Joshua S. Apte (chair), Robert Harley, Cesunica Ivey, Rachel Morello-Frosch.</li>
   <li>(02/2018) <b>Master of Engineering in Civil and Environmental Engineering</b>, <i>Massachusetts Institute of Technology</i>. Thesis: The phase separation inlet for droplets, ice residuals, and interstitial aerosols (<a href="http://hdl.handle.net/1721.1/115782">link</a>). Advisor: Daniel J. Cziczo.</li>
   <li>(02/2017) <b>Bachelor of Science in Earth, Atmospheric, and Planetary Sciences</b>, <i>Massachusetts Institute of Technology</i>. Thesis: Characterization of a 3D printed pumped counterflow virtual impactor and an aerodynamic lens concentrator (<a href="http://hdl.handle.net/1721.1/114346">link</a>). Advisor: Daniel J. Cziczo. Minor: Atmospheric Chemistry. Concentration: Music and Theater Arts.</li>
 </ul>
