@@ -21,6 +21,7 @@ nav_order: 2
 
 <h3>Awards and Fellowships</h3>
 <ul>
+  <li>(2025) Selected for NextProf Nexus. </li>
   <li>(2025) <a href="https://vcresearch.berkeley.edu/philomathiacenter/current-recipients-graduate-student-fellowship">Philomathia Graduate Fellowship in the Environmental Sciences.</a></li>
   <li>(2025) Joan Daisey Air Quality Research Award.</li>
   <li>(2025) Lau Foundation Graduate Fellowship in Climate Equity.</li>
