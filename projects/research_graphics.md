@@ -79,6 +79,26 @@ I have drawn a number of icons for use in my research talks. These graphics are 
         </a>
       </td>
     </tr>
+    <tr>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Land Use Regression
+        <a href="{{ site.baseurl }}/assets/research_graphics/land-use-regression-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/land-use-regression-01.png" alt="Land Use Regression" width="20"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Low Cost Sensors
+        <a href="{{ site.baseurl }}/assets/research_graphics/low-cost-sensor-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/low-cost-sensor-01.png" alt="Low Cost Sensor" width="20"/>
+        </a>
+      </td>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+        Mobile Monitoring
+        <a href="{{ site.baseurl }}/assets/research_graphics/mobile-monitoring-01.png">
+          <img src="{{ site.baseurl }}/assets/research_graphics/mobile-monitoring-01.png" alt="Mobile monitoring" width="20"/>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
