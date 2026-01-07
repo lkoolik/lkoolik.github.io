@@ -30,6 +30,7 @@ nav_order: 3
 
 <h3>Invited and Recorded Presentations</h3>
 <ul>
+  <li>(2025) <b>Koolik, L.</b>: Triple Wins, not Trade-offs: Investigating environmental policies at the climate-health-equity nexus. <i>Oberlin College Environmental Studies and Sciences Seminar</i>.</li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. <i>H2H8 Research Talks</i>. (<a href="https://youtu.be/4LnScZao8Eo?si=L4unvxIwsjY83zoO">video</a>)</li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. Invited talk for the <i>AGU GeoHealth OSPA Award-Winning Talks</i> Webinar. (<a href="https://www.youtube.com/watch?v=LAqIPNALz8U">video</a>)</li>
   <li>(2024) <b>Koolik, L.</b>, Alvarado, Á., Budahn, A., Plummer, L., Marshall, J., and Apte, J. S.: For Exposure to PM<sub>2.5</sub> from California’s On-Road Mobile Sources, Relative Disparities by Race-Ethnicity Remain Even After Decades of Emissions Controls. Invited talk for the <i> Joint AGU/AMS Climate and Health Showcase</i>. </li>
