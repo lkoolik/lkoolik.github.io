@@ -9,7 +9,7 @@ main_nav: false
 
 ## Research Graphics
 
-I am passionate about designing easy-to-understand graphics for my research talks. Below are a few examples of my graphics. Please feel free to use them with proper attribution.
+I am passionate about designing easy-to-understand graphics for my research talks. Below are a few examples of my graphics. Please feel free to use them with proper attribution. I also drew the logo for this website!
 
 ### Slide Template
 I take a lot of pride in my Powerpoint presentation format. I have saved a UC Berkeley-themed template deck on my [Google Drive](https://docs.google.com/presentation/d/1BjEPyJyxJjpy68SjDzuis9cBn-pb9psQ/edit?usp=sharing&ouid=102404854361369621684&rtpof=true&sd=true). Please provide proper credit if you use it.
