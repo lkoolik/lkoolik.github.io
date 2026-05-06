@@ -23,7 +23,7 @@ nav_order: 3
 
 <h3>In Review</h3>
 <ul>
-  <li>Manchanda, C & <b>Koolik, L. H.</b> (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Inverse Modeling Identifies Efficient Emission Control Strategy for Mitigating PM<sub>2.5</sub>sub> Pollution. <i>In Review.</i> </li> 
+  <li>Manchanda, C & <b>Koolik, L. H.</b> (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Inverse Modeling Identifies Efficient Emission Control Strategy for Mitigating PM<sub>2.5</sub> Pollution. <i>In Review.</i> </li> 
 </ul>
 
 <hr>
