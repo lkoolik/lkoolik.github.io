@@ -10,7 +10,7 @@ nav_order: 3
 
 <hr>
 
-<h3>Peer-Reviewed Publications</h3>
+<h3>Selected Peer-Reviewed Publications</h3>
 <ul>
   <li>(2026) <b>Koolik, L. H.</b>, Speizer, S., Rong, C., Chambliss, S., Marshall, J. D., Morello-Frosch, R., Tessum, C., and Apte, J. S.: Methodological Design Choices Can Affect Air Pollution Exposure Disparity Estimates: A Case Study on California’s Agricultural Sector. <i>Environmental Science & Technology</i> (<a href="https://doi.org/10.1021/acs.est.5c10796">Link</a>) </li> 
   <li>(2026) Marshall, J. D., <b>Koolik, L. H.</b>, Ünal, A., Morello-Frosch, R., and Apte, J. S.: Advancing Methods and Models that Promote Equity in Air Quality. <i>Ann. Rev. Public Health</i>. (<a href="https://doi.org/10.1146/annurev-publhealth-091824-125106">Link</a>)</li> 
@@ -21,9 +21,9 @@ nav_order: 3
 
 <hr>
 
-<h3>In Review & Working Papers</h3>
+<h3>In Review</h3>
 <ul>
-  <li><b>Koolik, L. H.</b> & Manchanda, C (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Modeling Optimal Pathways to a Triple Win in Air Quality, Climate, and Equity. <i>Working Paper.</i> (<a href="https://doi.org/10.26434/chemrxiv-2025-c6sn4">Preprint</a>)</li> 
+  <li>Manchanda, C & <b>Koolik, L. H.</b> (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Inverse Modeling Identifies Efficient Emission Control Strategy for Mitigating PM<sub>2.5</sub>sub> Pollution. <i>In Review.</i> </li> 
 </ul>
 
 <hr>
