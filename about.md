@@ -19,6 +19,6 @@ I investigate the structural linkages driving climate and air pollution inequali
 
 My work is motivated by principles of equity, justice, and inclusion. I am passionate about lowering the barriers of entry to traditional air pollution modeling; as the lead engineer of the [ECHO-AIR model](https://echo-air-model.github.io/), I have built a simple hands-off platform for air pollution modeling. 
 
-<b>I'm graduating in May 2026 and currently looking for postdoc opportunities!</b> If you are hiring or know of good opportunities for me to continue exploring problems at the intersection of air pollution, environmental justice, and climate policy, [I would love to connect](mailto:koolik@berkeley.edu).
+<b>I'm graduating in August 2026 and currently looking for postdoc opportunities!</b> If you are hiring or know of good opportunities for me to continue exploring problems at the intersection of air pollution, environmental justice, and climate policy, [I would love to connect](mailto:koolik@berkeley.edu).
 
 For more detailed information about my academic and research experience, check out my online [CV](https://lkoolik.github.io/CV/). 
