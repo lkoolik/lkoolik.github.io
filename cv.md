@@ -80,7 +80,7 @@ nav_order: 2
 <h4>Apte Group Laboratory</h4>
 <i> University of California, Berkeley </i> 
 
-<b> Graduate Student Researcher and PhD Candidate </b> (08/2021-present)
+<b> Graduate Student Researcher and PhD Candidate </b> (08/2021-07/2026)
 <ul>
   <li>Identifies critical policy strategies for mitigating exposure disparities.</li>
   <li>Develops computational pipelines for estimating PM<sub>2.5</sub> exposure disparities associated with changes in emissions.</li>
