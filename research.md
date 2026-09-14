@@ -11,6 +11,9 @@ nav_order: 3
 <hr>
 
 <h3>Selected Peer-Reviewed Publications</h3>
+
+*Full publication record and citation information available via <a href="https://scholar.google.com/citations?user=VFtpMLUAAAAJ&hl=en&oi=ao">Google Scholar</a>.*
+
 <ul>
   <li>(2026) Manchanda, C. & <b>Koolik, L. H.</b> (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Inverse Modeling Identifies Efficient Emission Control Strategy for Mitigating PM<sub>2.5</sub> Pollution. <i>Environmental Science & Technology</i> (in press). </li> 
   <li>(2026) <b>Koolik, L. H.</b>, Speizer, S., Rong, C., Chambliss, S., Marshall, J. D., Morello-Frosch, R., Tessum, C., and Apte, J. S.: Methodological Design Choices Can Affect Air Pollution Exposure Disparity Estimates: A Case Study on California’s Agricultural Sector. <i>Environmental Science & Technology</i> (<a href="https://doi.org/10.1021/acs.est.5c10796">Link</a>) </li> 
