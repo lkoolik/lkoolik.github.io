@@ -10,6 +10,12 @@ nav_order: 2
 
 <hr>
 
+<h3>Current Appointment</h3>
+
+(09/2026-present) Postdoctoral scholar in the <a href="https://sites.northwestern.edu/danethan/">Climate Change Research Group</a> at <a href="https://deeps.northwestern.edu/">Northwestern University's Department of Earth, Environmental, and Planetary Sciences</a>. 
+
+<hr>
+
 <h3>Education</h3>
 <ul>
   <li>(08/2026) <b>Doctor of Philosophy in Environmental Engineering</b>, <i>University of California, Berkeley</i>. Dissertation Committee: Joshua S. Apte (chair), Robert Harley, Cesunica Ivey, Rachel Morello-Frosch.</li>
@@ -38,7 +44,7 @@ nav_order: 2
 <h3>Mentorship & Service</h3>
 <h4>Undergraduate Research Supervision</h4>
 <ul>
-  <li>(12/2024-present) Meghana Raj: <em>Comparing Methodologies for Air Pollution Health Impact Assessments in Open-Source Modeling for Equity in California</em> </li>
+  <li>(12/2024-06/2026) Meghana Raj: <em>Comparing Methodologies for Air Pollution Health Impact Assessments in Open-Source Modeling for Equity in California</em> </li>
   <li>(12/2024-06/2025) Benjamin Salop: <em>Future-Proofing Open-Source, Accessible Air Pollution Modeling Pipelines for Increased Usability</em> </li>
   <li>(04/2024-09/2024) Amy Yao: <em>Developing Automated Techniques for Processing Complex Population Data</em> </li>
   <li>(01/2023-06/2024) Clara Rong: <em>Decomposing California's Agricultural Sector for Insights Towards Equitable Air Quality</em> (<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1324285">abstract</a>, <a href="https://agu23.ipostersessions.com/?s=9B-D2-A7-D7-94-1B-81-68-0A-CA-BD-01-52-8E-76-C2">iPoster</a>) </li>
