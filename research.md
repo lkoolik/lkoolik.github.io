@@ -12,7 +12,7 @@ nav_order: 3
 
 <h3>Selected Peer-Reviewed Publications</h3>
 
-*Full publication record and citation information available via <a href="https://scholar.google.com/citations?user=VFtpMLUAAAAJ&hl=en&oi=ao">Google Scholar</a>.*
+*Full publication record and citation information available via <a href="https://scholar.google.com/citations?user=V-FDJcAAAAAJ&hl=en">Google Scholar</a>.*
 
 <ul>
   <li>(2026) Manchanda, C. & <b>Koolik, L. H.</b> (co-first), Ünal, A., Fung, I., Marshall, J. D., Morello-Frosch, R., Turner, A. J., Harley, R., and Apte, J. S.: Inverse Modeling Identifies Efficient Emission Control Strategy for Mitigating PM<sub>2.5</sub> Pollution. <i>Environmental Science & Technology</i> (<a href="https://doi.org/10.1021/acs.est.6c06581">Link</a>) </li> 
